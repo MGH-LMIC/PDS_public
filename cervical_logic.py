@@ -207,7 +207,7 @@ def category(condition):
         print_line()
 
 
-
+# Ask users to choose options
 print "All possible conditions that can indicate cervical spine fusion:"
 print_line()
    
