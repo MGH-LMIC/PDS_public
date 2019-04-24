@@ -18,8 +18,6 @@
 
 # There are a total of 5 treatment options as listed below:
 
-# In[1]:
-
 
 option_1 = "Medical/Physical Therapy"
 option_2 = "Anterior Cervical Fusion"
@@ -28,22 +26,19 @@ option_4 = "Posterior Fusion"
 option_5 = "Posterior Fusion and Decompression"
 
 
-# Based on the user input(Main reason & co-existing conditions), any combination of the above options will be recommended for treatment as Appropriate, Rarely Appropriate & Maybe Appropriate
-
-# In[5]:
+# Based on the user input(Main reason & co-existing conditions), any combination of the above options will be recommended for
+# treatment as Appropriate, Rarely Appropriate & Maybe Appropriate
 
 
 # Functions needed to implement the decision making process
 
-# Function to decide userinput based on the question asked
+# Function to decide user input based on the question asked
 def yes_or_no():
     dic = {'1': 'Yes', '2':'No'}
     print ("Based on the question below, enter '1' for yes or '2' for no and then press enter")
 #     for option_num,option in sorted(dic.iteritems(),key=lambda x: x[0]):   
 #         print "{}.{}".format(option_num,option)
-    
-
-    
+        
 # Function to print dashed lines to improve readability       
 def print_line():
     print("-" * 80)
@@ -212,8 +207,6 @@ def category(condition):
         print_line()
 
 
-# In[6]:
-
 
 print "All possible conditions that can indicate cervical spine fusion:"
 print_line()
@@ -230,12 +223,7 @@ dic2 = {'1':'Infection(eg:Tuberculosis,discitis,osteomyelitis,epidural abscess)'
  
 for symptom_num,symptom in sorted(dic2.iteritems(),key=lambda x: x[0]):   
     print "{}.{}".format(symptom_num,symptom)
-    
-
-
-# In[8]:
-
-
+   
 # Ask user the reason for cervical spine
 cause = raw_input('What is the reason for cervical spine fusion?(Enter a number from the list above and press enter?')
 print_line()
