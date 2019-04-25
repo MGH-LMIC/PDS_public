@@ -1,0 +1,3079 @@
+,name
+0,chronic obstructive pulmonary disease
+1,Dyke-Davidoff-Masson syndrome
+2,molar tooth sign of inner ear
+3,bland thrombus in portal vein
+4,internal air bronchogram sign
+5,multiple concentric ring sign
+6,cytomegalic inclusion disease
+7,injury due to known mechanism
+8,conjugated hyperbilirubinemia
+9,idiopathic pulmonary fibrosis
+10,delayed phase hypoenhancement
+11,bird's beak sign of esophagus
+12,nonoxidant aerosol inhalation
+13,bacterial overgrowth syndrome
+14,lymphatic-venous malformation
+15,spindle cell synovial sarcoma
+16,pleomorphic xanthoastrocytoma
+17,tumor thrombus in portal vein
+18,spoke wheel pattern of kidney
+19,Langerhans cell histiocytosis
+20,bone-scan double density sign
+21,infantile dermal fibromatosis
+22,lucent-centered calcification
+23,hereditary cerebellar atrophy
+24,neuroepitheliomatous neoplasm
+25,category 3 actionable finding
+26,normal-pressure hydrocephalus
+27,juvenile rheumatoid arthritis
+28,liver hypertrophic pseudomass
+29,coronary artery calcification
+30,polyostotic fibrous dysplasia
+31,milk of calcium calcification
+32,type 3 Endplate marrow change
+33,hyperammonemic encephalopathy
+34,clostridium difficile colitis
+35,arterial phase isoenhancement
+36,postsurgical fluid collection
+37,iliopsoas-gluteus medius sign
+38,type 1 Endplate marrow change
+39,malignant fibrous histocytoma
+40,hypertrophic osteoarthropathy
+41,peripheral washout appearance
+42,other silicate pneumoconiosis
+43,type 2 Endplate marrow change
+44,absent collecting duct system
+45,category 1 actionable finding
+46,moderately ill-defined margin
+47,dilated transverse colon sign
+48,neuronal intestinal dysplasia
+49,extraocular muscle entrapment
+50,radiation-induced esophagitis
+51,Gorham vanishing bone disease
+52,category 2 actionable finding
+53,hypertrophic pyloric stenosis
+54,congenital agammaglobulinemia
+55,intercostal bulging lung sign
+56,desmoplastic small cell tumor
+57,intestinal pseudo-obstruction
+58,adenomatoid odontogenic tumor
+59,amyotrophic lateral sclerosis
+60,injury due to chemical trauma
+61,Salter-Harris type V fracture
+62,hypoplasia of right ventricle
+63,helicobacter pylori gastritis
+64,Salter-Harris type I fracture
+65,persistent truncus arteriosus
+66,musculoskeletal crescent sign
+67,perfusion imaging observation
+68,hereditary multiple exostoses
+69,body-system-specific disorder
+70,papillary cystadenocarcinoma
+71,large rod-like calcification
+72,homogeneous mass enhancement
+73,malignant neoplasm of ureter
+74,chronic obstructive uropathy
+75,malignant neoplasm of pelvis
+76,lollipop sign of diverticula
+77,malignant neoplastic disease
+78,eosinophilic gastroenteritis
+79,clear cell odontogenic tumor
+80,chiari malformation type III
+81,juvenile aponeurotic fibroma
+82,step-off vertebral body sign
+83,subarticular spinal stenosis
+84,multiple regions enhancement
+85,dialysis spondyloarthropathy
+86,vascular entrapment syndrome
+87,desmoplastic medulloblastoma
+88,inflammatory polyarthropathy
+89,lymphoproliferative disorder
+90,double popliteus tendon sign
+91,lobular capillary hemangioma
+92,Mickey Mouse sign of bladder
+93,anaplastic oligodendroglioma
+94,juxtacortical chondrosarcoma
+95,cirrhosis-associated nodules
+96,disorder of endocrine system
+97,anaplastic thyroid carcinoma
+98,synovial osteochondromatosis
+99,metachromatic leukodystrophy
+100,mild central spinal stenosis
+101,picture frame vertebral body
+102,Chopart fracture-dislocation
+103,benign prostatic hyperplasia
+104,nonalcoholic steatohepatitis
+105,bacterial infectious disease
+106,infection by tapeworm larvae
+107,fragmented staghorn calculus
+108,dedifferentiated liposarcoma
+109,lacrimal orbital pseudotumor
+110,femoroacetabular impingement
+111,arthritis of hemochromatosis
+112,lesion matrix characteristic
+113,failed back surgery syndrome
+114,loin pain hematuria syndrome
+115,enhancing internal septation
+116,temporal enhancement pattern
+117,acute interstitial pneumonia
+118,invasion enhancement pattern
+119,congenital anomaly of uterus
+120,flexion distraction fracture
+121,functional disorder of colon
+122,nodular ganglioneuroblastoma
+123,extramedullary hematopoiesis
+124,atypical lobular hyperplasia
+125,bronchioloalveolar carcinoma
+126,central pontine myelinolysis
+127,intestinal pseudoobstruction
+128,odontogenic ghost cell tumor
+129,progressive massive fibrosis
+130,periosteal cortical thinning
+131,lumbar interspinous bursitis
+132,hypervolemic pulmonary edema
+133,no discernible lesion matrix
+134,non-mass enhancement pattern
+135,usual interstitial pneumonia
+136,thoracic imaging enhancement
+137,tram track sign of bone scan
+138,musculoskeletal degeneration
+139,bone mineralization disorder
+140,persistent fetal circulation
+141,chiari malformation type IV
+142,pelvic inflammatory disease
+143,spatial enhancement pattern
+144,subpleural curvilinear line
+145,beehive-on-the-bladder sign
+146,anaplastic oligoastrocytoma
+147,microcalcifications in mass
+148,chiari malformation type II
+149,congenital anomaly of spine
+150,emphysematous cholecystitis
+151,ring-around-the-artery sign
+152,hyperlucent hemithorax sign
+153,communicating hydrocephalus
+154,lymphomatoid granulomatosis
+155,post-immunization arthritis
+156,broad based disc protrusion
+157,cardiogenic pulmonary edema
+158,inhalation-induced disorder
+159,myeloproliferative disorder
+160,diffuse orbital pseudotumor
+161,mineral deposition disorder
+162,circumferential enhancement
+163,monosodium urate deposition
+164,bull's-eye sign of GI tract
+165,calcifying odontogenic cyst
+166,abdominal fat necrosis sign
+167,comet-tail artifact (large)
+168,hypotensive nephrogram sign
+169,telangiectatic osteosarcoma
+170,pineal parenchymal neoplasm
+171,degenerative brain disorder
+172,dense metaphyseal band sign
+173,melanocytic medulloblastoma
+174,hamartoma of tuber cinereum
+175,moderately irregular margin
+176,cortical ring sign of wrist
+177,calcaneonavicular coalition
+178,atypical ductal hyperplasia
+179,comet-tail artifact (small)
+180,transitional cell carcinoma
+181,molar tooth sign of bladder
+182,disorder of immune function
+183,snowstorm pattern of breast
+184,hypertrophic cardiomyopathy
+185,bullet-shaped vertebra sign
+186,focal hepatic hot spot sign
+187,part-solid pulmonary nodule
+188,tuberous sclerosis syndrome
+189,leukocytoclastic vasculitis
+190,main en lorgnette deformity
+191,cardiac double density sign
+192,congenital anomaly of brain
+193,cholangiocellular carcinoma
+194,peripheral vascular disease
+195,Charcot-Marie-Tooth disease
+196,chondroblastic osteosarcoma
+197,ameloblastic fibro-odontoma
+198,double spinous process sign
+199,endosteal cortical thinning
+200,intraarticular osseous body
+201,methylmethacrylate embolism
+202,snowstorm pattern of uterus
+203,sonographic bull's-eye sign
+204,congenital hepatic fibrosis
+205,postpericardiotomy syndrome
+206,ameloblastic fibrodentinoma
+207,acquired tufted haemangioma
+208,malignant odontogenic tumor
+209,central odontogenic fibroma
+210,gonadal dysgenesis syndrome
+211,popcorn calcification sign
+212,capsule appearance (liver)
+213,Erlenmeyer flask deformity
+214,lace-like pattern of joint
+215,inflammatory bowel disease
+216,degenerative polyarthritis
+217,inflammatory fibroid polyp
+218,intracortical osteosarcoma
+219,ulcer-within-an-ulcer sign
+220,breast implant observation
+221,clustered ring enhancement
+222,ameloblastic odontosarcoma
+223,confluent fibrosis (liver)
+224,squamous odontogenic tumor
+225,signet ring sign of kidney
+226,white matter buckling sign
+227,holoprosencephaly sequence
+228,vacuolar myelopathy of HIV
+229,intraductal calcifications
+230,inverted Napoleon hat sign
+231,large cell medulloblastoma
+232,neurogenic pulmonary edema
+233,postoperative complication
+234,dissecting aortic aneurysm
+235,medullary nephrocalcinosis
+236,broad based disc extrusion
+237,juvenile ossifying fibroma
+238,mesenchymal chondrosarcoma
+239,TIMI grade 0: no perfusion
+240,odontogenic carcinosarcoma
+241,double bronchial wall sign
+242,cerebellar liponeurocytoma
+243,rosary bead esophagus sign
+244,whalebone-in-a-corset sign
+245,lateral femoral notch sign
+246,Mickey Mouse sign of liver
+247,diffuse intimal thickening
+248,pectoralis muscle invasion
+249,occipital condyle fracture
+250,pearl necklace gallbladder
+251,ingestion-induced disorder
+252,thromboangiitis obliterans
+253,pancreatic cystic neoplasm
+254,distended common bile duct
+255,post-ictal pulmonary edema
+256,gastric outlet obstruction
+257,segmental renal hypoplasia
+258,hole-within-a-hole pattern
+259,neurogenic bladder disease
+260,mucoid degeneration of ACL
+261,wedge compression fracture
+262,blister-of-the-cervix sign
+263,circumscribed neurofibroma
+264,cartilage-forming neoplasm
+265,mitral valve insufficiency
+266,chiari malformation type I
+267,bulges capsule of prostate
+268,diabetic cheiroarthropathy
+269,arteriovenous malformation
+270,spastic urinary tract sign
+271,mixed mullerian duct tumor
+272,flame shaped breast tissue
+273,Spanish toxic oil syndrome
+274,primary systemic arteritis
+275,cystic adventitial disease
+276,radiation-induced disorder
+277,Wimberger sign of syphilis
+278,chromophobe adenocarcinoma
+279,ancillary features (liver)
+280,non-solid pulmonary nodule
+281,familial aplasia of vermis
+282,sequestrated disc fragment
+283,enlarged parietal foramina
+284,lace-like pattern of ovary
+285,restrictive cardiomyopathy
+286,disorder due to drug abuse
+287,signal-related observation
+288,polycystic kidney disease
+289,nonenhancing central scar
+290,lymphatic vessel neoplasm
+291,osteochondritis dissecans
+292,Brunner gland hyperplasia
+293,graft versus host disease
+294,labyrinthine ossification
+295,interstitial lung disease
+296,ventricular septal defect
+297,oligodendroglial neoplasm
+298,neutropenic enterocolitis
+299,rocker-bottom thymus sign
+300,tracheoesophageal fistula
+301,crystal induced arthritis
+302,ameloblastic fibrosarcoma
+303,granular cell myoblastoma
+304,satellite lesions present
+305,peripheral calcifications
+306,primary biliary cirrhosis
+307,hemolytic uremic syndrome
+308,retracts capsule of liver
+309,vascular loop compression
+310,Frostberg inverted-3 sign
+311,half moon sign (shoulder)
+312,hypersensitivity angiitis
+313,astrocytoma WHO grade III
+314,spoke wheel sign of bowel
+315,Hill-Sachs deformity sign
+316,bronchial wall thickening
+317,external abdominal hernia
+318,renovascular hypertension
+319,cortical bone observation
+320,cancer of unknown primary
+321,foramen of Winslow hernia
+322,clear cell adenocarcinoma
+323,navicular fat stripe sign
+324,Salter type VIII fracture
+325,tumor-like lesion of bone
+326,multicentric osteosarcoma
+327,foraminal spinal stenosis
+328,renal parenchymal disease
+329,alkaline-induced disorder
+330,signal void from artifact
+331,bird's beak sign of colon
+332,nonoxidant gas inhalation
+333,inert dust pneumoconiosis
+334,congenital inclusion cyst
+335,intravertebral herniation
+336,fine linear calcification
+337,infantile myofibromatosis
+338,posterior tracheal stripe
+339,constrictive pericarditis
+340,dementia with Lewy bodies
+341,immunodeficiency disorder
+342,bronchoesophageal fistula
+343,arcuate ligament syndrome
+344,extrapontine myelinolysis
+345,transtentorial herniation
+346,target sign of bowel wall
+347,Cooper's ligament changes
+348,continuous diaphragm sign
+349,signet ring sign of chest
+350,abuts capsule of prostate
+351,renal spondyloarthropathy
+352,periureteric diverticulum
+353,fracture healing disorder
+354,transient ischemic attack
+355,neurodegenerative disease
+356,lesion effect on prostate
+357,heterogeneous enhancement
+358,orthopedic device problem
+359,meningothelial meningioma
+360,obstructive hydrocephalus
+361,disappearing ellipse sign
+362,biphasic synovial sarcoma
+363,lysosomal storage disease
+364,arthritis of alkaptonuria
+365,deep grey nuclei disorder
+366,clear cell chondrosarcoma
+367,necrotizing enterocolitis
+368,collecting duct carcinoma
+369,mixed enhancement pattern
+370,saber sheath trachea sign
+371,traction bronchiolectasis
+372,focal nodular hyperplasia
+373,fetal biophysical profile
+374,parenchymal opacification
+375,alkaline reflux gastritis
+376,cardiopulmonary pathology
+377,benign odontogenic tumour
+378,right paratracheal stripe
+379,fibroblastic osteosarcoma
+380,internal abdominal hernia
+381,vascular convergence sign
+382,molar tooth sign of brain
+383,avulsed meniscal fragment
+384,partial hydatidiform mole
+385,serous cystadenocarcinoma
+386,carotid cavernous fistula
+387,liver imaging observation
+388,retroperitoneal fibrosis
+389,skewed nasal septum sign
+390,reactive airways disease
+391,sclerosing osteomyelitis
+392,acalculous cholecystitis
+393,Fleischner sign of ileum
+394,patent ductus arteriosus
+395,asbestos-related disease
+396,moderately smooth margin
+397,carbon monoxide toxicity
+398,tram track sign of brain
+399,intramuscular hemangioma
+400,neurofibromatosis type 2
+401,grade III chondromalacia
+402,lymphangioleiomyomatosis
+403,fibroblastic liposarcoma
+404,ear-nose-throat disorder
+405,dripping candle wax sign
+406,irritable bowel syndrome
+407,hepatocellular carcinoma
+408,alcohol-induced disorder
+409,dystrophic calcification
+410,astrocytoma WHO grade II
+411,round nipple shadow sign
+412,post-infective arthritis
+413,reversed appearance sign
+414,astrocytoma WHO grade IV
+415,meningioma WHO grade III
+416,antral mucosal diaphragm
+417,dysgenesis of cerebellum
+418,mucoepidermoid carcinoma
+419,calcifications in a mass
+420,relapsing polychondritis
+421,target sign of extremity
+422,colitis cystica profunda
+423,Fleischner sign of chest
+424,choroid plexus papilloma
+425,gallstone in gallbladder
+426,focal amyloid deposition
+427,esthesioneuroepithelioma
+428,malignant otitis externa
+429,gravitational shift sign
+430,tram track sign of chest
+431,mass enhancement pattern
+432,pathophysiologic finding
+433,pericardial fat tag sign
+434,embryonal cell carcinoma
+435,aggressive osteoblastoma
+436,osteitis fibrosa cystica
+437,oncocytic adenocarcinoma
+438,cavernous transformation
+439,sideswipe elbow fracture
+440,balloon-on-a-string sign
+441,telephone receiver femur
+442,congenital cholesteatoma
+443,osteoarthritis deformans
+444,diffuse esophageal spasm
+445,choroid plexus carcinoma
+446,gangrenous cholecystitis
+447,renal calyceal axis sign
+448,dark internal septations
+449,abnormal implant contour
+450,eosinophilic esophagitis
+451,apophyseal ring fracture
+452,lymphocytic hypophysitis
+453,eosinophilic cholangitis
+454,Wimberger sign of scurvy
+455,fibroepithelial neoplasm
+456,extrathyroidal extension
+457,pericardial constriction
+458,clay shoveler's fracture
+459,soft tissue perineurioma
+460,non-circumscribed margin
+461,pseudoxanthoma elasticum
+462,intracranial hypotension
+463,heterotopic ossification
+464,juvenile xanthogranuloma
+465,adrenal cortical adenoma
+466,posterior urethral valve
+467,nonobstructive megacolon
+468,architectural distortion
+469,Osgood-Schlatter disease
+470,keyhole sign of duodenum
+471,lying-down adrenal gland
+472,rhabdomyomatous neoplasm
+473,mucinous cystic neoplasm
+474,intraneural perineurioma
+475,vascular anomaly (liver)
+476,visible internal vessels
+477,alobar holoprosencephaly
+478,suspicious calcification
+479,cerebrospinal fluid leak
+480,indirect inguinal hernia
+481,adenoid cystic carcinoma
+482,gemistocytic astrocytoma
+483,cancellous ulcer osteoma
+484,protoplasmic astrocytoma
+485,double decidual sac sign
+486,thoracic outlet syndrome
+487,idiopathic polyarthritis
+488,neurofibromatosis type 1
+489,Salter type VII fracture
+490,atherosclerotic aneurysm
+491,gallbladder inertia sign
+492,caustic-induced disorder
+493,obscured outer edge sign
+494,non-HCC liver malignancy
+495,myxopapillary ependymoma
+496,nephrogenic adenofibroma
+497,pneumatosis intestinalis
+498,mucinous adenocarcinoma
+499,talocalcaneal coalition
+500,tumor in vein (LI-RADS)
+501,endomyocardial fibrosis
+502,squamous cell carcinoma
+503,red blood cell disorder
+504,Guillain-Barre syndrome
+505,lobar holoprosencephaly
+506,sialodochitis fibrinosa
+507,epithelial mesothelioma
+508,transfusional siderosis
+509,pseudo-neuroarthropathy
+510,pyrophosphate arthritis
+511,corduroy cloth vertebra
+512,type 2 hangman fracture
+513,duodenal wind sock sign
+514,medullary sponge kidney
+515,intermediate transition
+516,homogeneous enhancement
+517,stretched bronchus sign
+518,anomaly of chromosome X
+519,bowel motility disorder
+520,lipoid dermatoarthritis
+521,hypernephroma halo sign
+522,Salter type IX fracture
+523,periosteal osteosarcoma
+524,vertebral fade-off sign
+525,rim sign of gallbladder
+526,scimitar sign of artery
+527,transitional meningioma
+528,lipomatous infiltration
+529,transmesosigmoid hernia
+530,classic medulloblastoma
+531,cortical erosion absent
+532,reticulonodular pattern
+533,liver score designation
+534,cerebrovascular disease
+535,migratory polyarthritis
+536,frontotemporal dementia
+537,Salter type VI fracture
+538,periprosthetic fracture
+539,obstructive cholangitis
+540,hereditary pancreatitis
+541,epicardial fat pad sign
+542,ischemic cardiomyopathy
+543,ectopic pancreatic rest
+544,2-column burst fracture
+545,cardiovascular disorder
+546,keyhole sign of bladder
+547,pencil-in-cup deformity
+548,Essex-Lopresti fracture
+549,type 1 hangman fracture
+550,cubital tunnel syndrome
+551,squamous adenocarcinoma
+552,Erdheim-Chester disease
+553,tuberculous spondylitis
+554,visible anatomic entity
+555,migrated disc extrusion
+556,astrocytoma WHO grade I
+557,falciform ligament sign
+558,gastroesophageal reflux
+559,celery stalk metaphysis
+560,blood products (lesion)
+561,intramesosigmoid hernia
+562,type 3 hangman fracture
+563,multiple system atrophy
+564,ependymoma WHO grade II
+565,endolymphatic sac tumor
+566,intraosseous hemangioma
+567,closed-loop obstruction
+568,central spinal stenosis
+569,retrolental fibroplasia
+570,pleomorphic liposarcoma
+571,pronator quadratus sign
+572,traction bronchiectasis
+573,small cell osteosarcoma
+574,bulges capsule of liver
+575,teardrop sign of orbits
+576,emphysematous gastritis
+577,granulomatous synovitis
+578,Wernicke encephalopathy
+579,posterior junction line
+580,choroid plexus neoplasm
+581,intraarticular fracture
+582,amniotic fluid embolism
+583,adenosquamous carcinoma
+584,negative ulnar variance
+585,eosinophilic ureteritis
+586,positive ulnar variance
+587,bell-shaped ureter sign
+588,subarachnoid hemorrhage
+589,rat tail narrowing sign
+590,thanatophoric dysplasia
+591,adductor canal syndrome
+592,3-column burst fracture
+593,suppurative thyroiditis
+594,autoimmune pancreatitis
+595,grade II chondromalacia
+596,injury due to frostbite
+597,neurocutaneous syndrome
+598,rim enhancement pattern
+599,proliferative synovitis
+600,early filling vein sign
+601,neuroendocrine neoplasm
+602,squeezed ventricle sign
+603,giant cell glioblastoma
+604,Trummerfeld scurvy zone
+605,widened disk space sign
+606,fibromuscular dysplasia
+607,uveomeningitic syndrome
+608,local tumor progression
+609,tricuspid valve disease
+610,myxomatous degeneration
+611,centrilobular emphysema
+612,right esophageal stripe
+613,lumen with a lumen sign
+614,retroanastomotic hernia
+615,diffuse skin thickening
+616,osteogenesis imperfecta
+617,carcinoid heart disease
+618,cardiopulmonary process
+619,obstructs biliary ducts
+620,disorder of spinal cord
+621,gastric cannonball sign
+622,congenital malformation
+623,infective polyarthritis
+624,enterocutaneous fistula
+625,grade IV chondromalacia
+626,paraneoplastic syndrome
+627,cardiopulmonary disease
+628,meningioma WHO grade II
+629,amorphous calcification
+630,mega-aeroesophagus sign
+631,psammomatous meningioma
+632,tip of the iceberg sign
+633,incomplete fissure sign
+634,teardrop sign of ankle
+635,ankylosing spondylitis
+636,abuts capsule of liver
+637,vascular calcification
+638,vacuum disk phenomenon
+639,eosinophilic granuloma
+640,maiden waist deformity
+641,proliferation disorder
+642,detrusor hyperreflexia
+643,calcification disorder
+644,plexiform neurofibroma
+645,metabolic bone disease
+646,eosinophilic pneumonia
+647,Pellegrini-Stieda sign
+648,leiomyomatous neoplasm
+649,interstitial line sign
+650,drooping shoulder sign
+651,developmental disorder
+652,enhancing central scar
+653,Salter-Harris fracture
+654,transchondral fracture
+655,nasal septum deviation
+656,bridging vascular sign
+657,left esophageal stripe
+658,extracapsular silicone
+659,vascular plethora sign
+660,spermatocytic seminoma
+661,Machado-Joseph disease
+662,peripheral bubble sign
+663,struggling antrum sign
+664,superior triangle sign
+665,afferent loop syndrome
+666,erosive osteoarthritis
+667,figure 8 sign of brain
+668,empty mediastinum sign
+669,villonodular synovitis
+670,button sequestrum sign
+671,fibrillary astrocytoma
+672,pituitary microadenoma
+673,solid pulmonary nodule
+674,calyceal crescent sign
+675,Wallerian degeneration
+676,hepatic fat deposition
+677,direct inguinal hernia
+678,metaplastic meningioma
+679,middle aortic syndrome
+680,veno-occlusive disease
+681,ependymoma WHO grade I
+682,dilated cardiomyopathy
+683,endplate marrow change
+684,multi-infarct dementia
+685,hepatocellular adenoma
+686,dysbaric osteonecrosis
+687,polymyalgia rheumatica
+688,solitary fibrous tumor
+689,acquired cholesteatoma
+690,interstitial pneumonia
+691,thyroglossal duct cyst
+692,hilum convergence sign
+693,mandibular mantle sign
+694,carcinoid valvulopathy
+695,hypertrophic gastritis
+696,transverse stripe sign
+697,eosinophilic gastritis
+698,fuzzy fluid level sign
+699,diastolic washout sign
+700,enhancement uniformity
+701,pulmonary hypertension
+702,epithelioid hemangioma
+703,serpiginous tract sign
+704,lesion transition zone
+705,capillary malformation
+706,grade I chondromalacia
+707,insufficiency fracture
+708,pseudomyxoma peritonei
+709,one-bone-two-bone sign
+710,pelvic or groin hernia
+711,juxtaphrenic peak sign
+712,infectious esophagitis
+713,lymphatic malformation
+714,cluster-of-grapes sign
+715,brownian movement sign
+716,density-related entity
+717,gallstone in bile duct
+718,efferent loop syndrome
+719,spontaneous hemorrhage
+720,valvular heart disease
+721,perilesional steatosis
+722,scallop sign of pleura
+723,boot-shaped heart sign
+724,arthroplasty loosening
+725,interstitial emphysema
+726,transient osteoporosis
+727,microcystic meningioma
+728,round cell liposarcoma
+729,meningioma WHO grade I
+730,situs inversus totalis
+731,fluorocarbon poisoning
+732,ectopic gastric mucosa
+733,external hydrocephalus
+734,attachment to bronchus
+735,kissing sequestra sign
+736,bronchiolar prominence
+737,endemic osteoarthritis
+738,acute serous synovitis
+739,interstitial nephritis
+740,ductal wall thickening
+741,pie-in-the-sky bladder
+742,aortic swallowing sign
+743,parachute mitral valve
+744,indefinite uterus sign
+745,midsternal stripe sign
+746,glutaraldehyde colitis
+747,ischemic heart disease
+748,disorder of peritoneum
+749,calcific periarthritis
+750,half moon sign (chest)
+751,pituitary macroadenoma
+752,Wegener granulomatosis
+753,parosteal osteosarcoma
+754,oxidant gas inhalation
+755,Wernig-Hoffman disease
+756,hepatic encephalopathy
+757,dependent viscera sign
+758,posterior wedging sign
+759,carpal tunnel syndrome
+760,small-bowel feces sign
+761,angiomatous meningioma
+762,bullet and bodkin sign
+763,fragment-in-notch sign
+764,lesion effect on liver
+765,cholesterol deposition
+766,transmesenteric hernia
+767,microvascular ischemia
+768,yo-yo-on-a-string sign
+769,atherosclerotic plaque
+770,Schneiderian papilloma
+771,neuromuscular fracture
+772,deQuervain dislocation
+773,acute tubular necrosis
+774,left atrial notch sign
+775,tension pneumocephalus
+776,asymmetric enhancement
+777,increasing enhancement
+778,distorts hepatic vein
+779,cloacogenic carcinoma
+780,acute external otitis
+781,suppurative arthritis
+782,ataxia telangiectasia
+783,orbital wall fracture
+784,discarded string sign
+785,white line of Frankel
+786,degenerative disorder
+787,curvature malposition
+788,insecticide poisoning
+789,scallop sign of wrist
+790,foreign body embolism
+791,enterovesical fistula
+792,bone-forming neoplasm
+793,holly leaf appearance
+794,sliding hiatal hernia
+795,acinar cell carcinoma
+796,microlobulated margin
+797,reticular enhancement
+798,mucopolysaccharidosis
+799,paradoxical halo sign
+800,migrating staple sign
+801,plant thorn synovitis
+802,intrahepatic gas sign
+803,salt and pepper skull
+804,juxtaglomerular tumor
+805,biphasic mesothelioma
+806,necrotizing fasciitis
+807,mixed germ cell tumor
+808,Weber type A fracture
+809,halo sign of duodenum
+810,Letterer-Siwe disease
+811,enteroenteric fistula
+812,Liffert-Arkin disease
+813,xanthoma disseminatum
+814,tracheal overlap sign
+815,papillary cystadenoma
+816,hematoma/blood signal
+817,thickened sclera sign
+818,mixed Mullerian tumor
+819,corkscrew collaterals
+820,disorder of pregnancy
+821,avulsed bone fragment
+822,diaphragmatic rupture
+823,pseudo-osteoarthritis
+824,diastrophic dysplasia
+825,silver fork deformity
+826,esthesioneuroblastoma
+827,growing calculus sign
+828,chondromyxoid fibroma
+829,kinky chest tube sign
+830,Hashimoto thyroiditis
+831,familial dysautonomia
+832,tumor in hepatic vein
+833,clear cell meningioma
+834,hide-bound bowel sign
+835,hydropneumoperitoneum
+836,ductal adenocarcinoma
+837,lymphoepithelial cyst
+838,contracting cord sign
+839,superficial siderosis
+840,hyperextension injury
+841,vascular malformation
+842,multiple lesions 6-10
+843,porcelain gallbladder
+844,small-airways disease
+845,Loeffler endocarditis
+846,arterial cut-off sign
+847,anastomotic narrowing
+848,parallel channel sign
+849,costal cartilage sign
+850,fibrosing colonopathy
+851,floating viscera sign
+852,paintbrush appearance
+853,cholesterol granuloma
+854,shepherd's crook sign
+855,sigmoid elevator sign
+856,watering can perineum
+857,paraesophageal hernia
+858,pistol grip deformity
+859,Weber type B fracture
+860,eosinophilic cystitis
+861,vesicoureteral reflux
+862,cocktail sausage sign
+863,myocardial infarction
+864,Rosai-Dorfman disease
+865,chest tube entrapment
+866,lower esophageal ring
+867,focal disc protrusion
+868,arteriovenous fistula
+869,drug-induced disorder
+870,atheromatous embolism
+871,diffuse axonal injury
+872,lesion rim or capsule
+873,ascending cholangitis
+874,symmetric enhancement
+875,trabecular thickening
+876,perilymphatic fistula
+877,anaplastic ependymoma
+878,lesion characteristic
+879,golf ball-on-tee sign
+880,alkaline encrustation
+881,periosteal osteophyte
+882,intrauterine synechia
+883,fibroepithelial polyp
+884,tibiotalar slant sign
+885,eye-of-the-tiger sign
+886,focal skin thickening
+887,glycogenic acanthosis
+888,mesenchymal hamartoma
+889,anaplastic meningioma
+890,abdominal wall hernia
+891,pilocytic astrocytoma
+892,hiked-up renal pelvis
+893,condylomata acuminata
+894,demyelinating disease
+895,blood vessel neoplasm
+896,extrapleural air sign
+897,homogeneous retention
+898,myxoid chondrosarcoma
+899,pneumoarthrogram sign
+900,hydrocarbon poisoning
+901,pericardial line sign
+902,intraosseous gas sign
+903,clear cell ependymoma
+904,spondylosis deformans
+905,epiploic appendagitis
+906,tubulovillous adenoma
+907,pseudocapsule (liver)
+908,Weber type C fracture
+909,neurological disorder
+910,mitral valve prolapse
+911,blueberry muffin sign
+912,onion ring appearance
+913,multicystic dysplasia
+914,injury due to missile
+915,displaces portal vein
+916,plasma cell granuloma
+917,cardiac insufficiency
+918,granulomatous disease
+919,subfalcine herniation
+920,boutonniere deformity
+921,vascular cut-off sign
+922,tuberculous arthritis
+923,splenic sequestration
+924,gigantiform cementoma
+925,lateral capsular sign
+926,egg-on-its-side heart
+927,segmental enhancement
+928,depth of inspiration
+929,symmetric liver sign
+930,eosinophilic colitis
+931,ghost vertebrae sign
+932,cervicothoracic sign
+933,renal adenocarcinoma
+934,deep vein thrombosis
+935,diaphragmatic hernia
+936,splenic pedicle sign
+937,multiple lesions >10
+938,punched out erosions
+939,Hill-Sachs deformity
+940,nonossifying fibroma
+941,coarse calcification
+942,tension pneumothorax
+943,central osteosarcoma
+944,focal disc extrusion
+945,vascular nodule sign
+946,curlicue ureter sign
+947,fibrous mesothelioma
+948,rim sign of shoulder
+949,bone marrow embolism
+950,type 1 dens fracture
+951,small cell carcinoma
+952,stripe sign of chest
+953,flared mandible sign
+954,hereditary nephritis
+955,dementia pugilistica
+956,fibrous histiocytoma
+957,non-Hodgkin lymphoma
+958,attachment to pleura
+959,large cell carcinoma
+960,aspiration of liquid
+961,Maisonneuve fracture
+962,transitory synovitis
+963,pericardial effusion
+964,concentric ring sign
+965,cystitis glandularis
+966,ring sign of adrenal
+967,central lucency sign
+968,anterior drawer sign
+969,top-of-the-knob sign
+970,skull shape disorder
+971,type 3 dens fracture
+972,restricted diffusion
+973,target sign of brain
+974,air bronchogram sign
+975,gull wing appearance
+976,attachment to vessel
+977,aneursymal bone cyst
+978,mesoblastic nephroma
+979,acinar cell neoplasm
+980,May-Thurner syndrome
+981,beak sign of pylorus
+982,converging line sign
+983,bulging fissure sign
+984,floating myodil sign
+985,fallen fragment sign
+986,harlequin appearance
+987,Klebsiella pneumonia
+988,organizing pneumonia
+989,ground glass pattern
+990,melanocytic neoplasm
+991,papillary meningioma
+992,hemangioendothelioma
+993,sternal cupping sign
+994,dot and dash pattern
+995,toxic encephalopathy
+996,intermediate concern
+997,pharyngeal dysphagia
+998,mesenteric vein sign
+999,contrast bubble sign
+1000,giant cell arteritis
+1001,non-mass enhancement
+1002,Carman meniscus sign
+1003,gnathic osteosarcoma
+1004,Little Leaguer elbow
+1005,stripe sign of brain
+1006,hourglass appearance
+1007,sandstorm appearance
+1008,mucinous cystadenoma
+1009,postoperative change
+1010,accentuated lordosis
+1011,plexiform schwannoma
+1012,compartment syndrome
+1013,high-output syndrome
+1014,target sign of colon
+1015,crazy-paving pattern
+1016,deflected calyx sign
+1017,neuroepithelial cyst
+1018,multisystem disorder
+1019,intracortical lipoma
+1020,circumscribed margin
+1021,regional enhancement
+1022,mesothelial neoplasm
+1023,acanthosis nigricans
+1024,drug-induced colitis
+1025,short bowel syndrome
+1026,Budd-Chiari syndrome
+1027,collapsing cord sign
+1028,desmoplastic fibroma
+1029,coarctation of aorta
+1030,milk of calcium cyst
+1031,ground-glass opacity
+1032,Tolosa-Hunt syndrome
+1033,major liver features
+1034,tubo-ovarian abscess
+1035,choroidal detachment
+1036,Bartholin gland cyst
+1037,suture calcification
+1038,milk of calcium bile
+1039,secretory meningioma
+1040,periosteal chondroma
+1041,target sign of liver
+1042,multiple lesions 2-5
+1043,atrial septal defect
+1044,disorder of meninges
+1045,rotatory subluxation
+1046,intrathoracic kidney
+1047,obstructive uropathy
+1048,lambda sign of chest
+1049,pars intermedia cyst
+1050,valve pressure reset
+1051,rectovesical fistula
+1052,pulmonary hemorrhage
+1053,type 2 dens fracture
+1054,tension pneumo-orbit
+1055,pulmonary aspiration
+1056,subacute thyroiditis
+1057,target practice sign
+1058,infantile hemangioma
+1059,lymphoid hyperplasia
+1060,pulmonary infarction
+1061,stippled enhancement
+1062,rectovaginal fistula
+1063,infectious synovitis
+1064,tumbling bullet sign
+1065,peripheral retention
+1066,infarction of spleen
+1067,toxic gas inhalation
+1068,ameloblastic fibroma
+1069,growth rate disorder
+1070,capillary hemangioma
+1071,developing asymmetry
+1072,clustered microcysts
+1073,lambda sign of aorta
+1074,supinator notch sign
+1075,cystic duct syndrome
+1076,Kupffer cell sarcoma
+1077,compression fracture
+1078,gasless abdomen sign
+1079,giant cell carcinoma
+1080,blind pouch syndrome
+1081,granulocytic sarcoma
+1082,rheumatoid arthritis
+1083,clear cell carcinoma
+1084,paraseptal emphysema
+1085,corkscrew bowel sign
+1086,hypervascular lesion
+1087,cementifying fibroma
+1088,lye-induced disorder
+1089,erased charcoal sign
+1090,bicuspid heart valve
+1091,polyarteritis nodosa
+1092,fracture dislocation
+1093,melanotic schwannoma
+1094,appendiceal mucocele
+1095,respiratory disorder
+1096,meconium peritonitis
+1097,anterior sulcus sign
+1098,papillary ependymoma
+1099,hot air balloon sign
+1100,kidney crescent sign
+1101,spina bifida occulta
+1102,tanycytic ependymoma
+1103,cookie cutter lesion
+1104,persistent loop sign
+1105,tumor in portal vein
+1106,direct skin invasion
+1107,intramuscular lipoma
+1108,salt-and-pepper sign
+1109,chondroradionecrosis
+1110,head and neck cancer
+1111,collateral vein sign
+1112,Lung-RADS assessment
+1113,soft-tissue rim sign
+1114,pear-shaped bladder
+1115,cobblestone pattern
+1116,carotid string sign
+1117,central hypodensity
+1118,rhabdoid meningioma
+1119,twinkling star sign
+1120,diffuse enhancement
+1121,arterial dissection
+1122,imaging observation
+1123,floating aorta sign
+1124,juxtaarticular cyst
+1125,herbicide poisoning
+1126,acoustic schwannoma
+1127,encapsulated margin
+1128,traumatic synovitis
+1129,mucosal stripe sign
+1130,mosaic architecture
+1131,odontoameloblastoma
+1132,cystic angiomatosis
+1133,pin-track infection
+1134,displaced substance
+1135,pituitary carcinoma
+1136,psoriatic arthritis
+1137,Freiberg infraction
+1138,tubular small bowel
+1139,nodular hyperplasia
+1140,meningoencephalitis
+1141,chest wall invasion
+1142,spinnaker sail sign
+1143,mechanical disorder
+1144,spindle cell lipoma
+1145,double contour sign
+1146,integument disorder
+1147,greenstick fracture
+1148,Desault dislocation
+1149,tumor in renal vein
+1150,myxoid fibrosarcoma
+1151,new-diagnosis tumor
+1152,peripheral fat sign
+1153,widened suture sign
+1154,colovesical fistula
+1155,floating tooth sign
+1156,comminuted fracture
+1157,enhancement pattern
+1158,pockets-of-gas sign
+1159,pericardial disease
+1160,microscopic colitis
+1161,comet-tail artifact
+1162,halo sign of breast
+1163,pulmonary arteritis
+1164,stack of coins sign
+1165,condensing osteitis
+1166,spondyloarthropathy
+1167,angiomyoliposarcoma
+1168,orbital pseudotumor
+1169,rim sign of adrenal
+1170,regenerative nodule
+1171,absent bow tie sign
+1172,diaphyseal fracture
+1173,depression fracture
+1174,tubular artery sign
+1175,large cell lymphoma
+1176,chiari malformation
+1177,bacterial infection
+1178,destruction pattern
+1179,mesenteric ischemia
+1180,target sign of lung
+1181,pathologic fracture
+1182,double outline sign
+1183,portal hypertension
+1184,intermediate margin
+1185,medullary carcinoma
+1186,posterior scleritis
+1187,round calcification
+1188,blade-of-grass sign
+1189,cerebellar disorder
+1190,cellular ependymoma
+1191,radiation enteritis
+1192,soft tissue density
+1193,ependymoastrocytoma
+1194,amyloid arthropathy
+1195,notched ureter sign
+1196,lymphangitic spread
+1197,fibrovascular polyp
+1198,focal proliferation
+1199,membranous cyclitis
+1200,upper triangle sign
+1201,panacinar emphysema
+1202,fungal microabscess
+1203,ice cream cone sign
+1204,adenoid hyperplasia
+1205,glycogen deposition
+1206,acinar cell adenoma
+1207,hepatic fat sparing
+1208,hyperparathyroidism
+1209,incarcerated hernia
+1210,retrosternal stripe
+1211,gliomatosis cerebri
+1212,subglottal stenosis
+1213,undistorted vessels
+1214,discal displacement
+1215,teat and udder sign
+1216,microcalcifications
+1217,periosteal reaction
+1218,embryonal carcinoma
+1219,mural calcification
+1220,nephrogenic adenoma
+1221,intersubstance tear
+1222,ring stricture sign
+1223,nodular heterotopia
+1224,rugger jersey spine
+1225,entrapment syndrome
+1226,subthreshold lesion
+1227,venous malformation
+1228,swan neck deformity
+1229,intestinal disorder
+1230,blind loop syndrome
+1231,sinking pellet sign
+1232,hematogenous spread
+1233,diffuse prostatitis
+1234,central enhancement
+1235,uninhibited bladder
+1236,tennis racquet sign
+1237,Mullerian duct cyst
+1238,air esophagram sign
+1239,focal dominant mass
+1240,disease progression
+1241,aspiration of lipid
+1242,pleomorphic adenoma
+1243,iatrogenic disorder
+1244,paraduodenal hernia
+1245,parallel track sign
+1246,squamous metaplasia
+1247,metanephric adenoma
+1248,central neurocytoma
+1249,macrocalcifications
+1250,exudative retinitis
+1251,growth acceleration
+1252,right-to-left shunt
+1253,Chilaiditi syndrome
+1254,crowded carpal sign
+1255,left-to-right shunt
+1256,sentinel lines sign
+1257,ivory vertebra sign
+1258,hyperflexion injury
+1259,strangulated hernia
+1260,homogeneous washout
+1261,progressive disease
+1262,feeding vessel sign
+1263,cracked walnut sign
+1264,right heart failure
+1265,track sign of femur
+1266,deficiency disorder
+1267,epithelial neoplasm
+1268,tram track rib sign
+1269,acute kyphosis sign
+1270,transomental hernia
+1271,rounded atelectasis
+1272,congenital disorder
+1273,atypical meningioma
+1274,racemose hemangioma
+1275,wagging tongue sign
+1276,cerebral herniation
+1277,indrawn pleura sign
+1278,tetralogy of Fallot
+1279,intersigmoid hernia
+1280,lipomatous neoplasm
+1281,transverse myelitis
+1282,aspiration of water
+1283,chordoid meningioma
+1284,infective arthritis
+1285,salivary gland cyst
+1286,mottled enhancement
+1287,axillary adenopathy
+1288,cellular schwannoma
+1289,Scheuermann disease
+1290,marginal osteophyte
+1291,displaced crus sign
+1292,osteochondromatosis
+1293,choroid plexus cyst
+1294,congenital stenosis
+1295,pseudocalculus sign
+1296,pseudotumor cerebri
+1297,centripetal fill-in
+1298,clumped enhancement
+1299,intraosseous lipoma
+1300,malignant melanoma
+1301,silicone synovitis
+1302,Seurat spleen sign
+1303,subcapsular C sign
+1304,spotted nephrogram
+1305,Kashin-Bek disease
+1306,clear cell sarcoma
+1307,physiologic repair
+1308,Jefferson fracture
+1309,fibrous meningioma
+1310,chest abdomen sign
+1311,linear enhancement
+1312,double condom sign
+1313,sail sign of chest
+1314,axillary mass sign
+1315,drooping lily sign
+1316,hemangiopericytoma
+1317,ivory phalanx sign
+1318,penetrating injury
+1319,Riedel thyroiditis
+1320,one-two-three sign
+1321,crystal deposition
+1322,germ cell neoplasm
+1323,linear atelectasis
+1324,sedimentation sign
+1325,atrophic gastritis
+1326,cholangiocarcinoma
+1327,biliary dyskinesia
+1328,bucket-handle tear
+1329,rim sign of pelvis
+1330,Monteggia fracture
+1331,antral bowing sign
+1332,neural tube defect
+1333,sail sign of elbow
+1334,basilar meningitis
+1335,halo sign of heart
+1336,Binswanger disease
+1337,granulation tissue
+1338,gonadal dysgenesis
+1339,loop-to-loop colon
+1340,moon crescent sign
+1341,BI-RADS assessment
+1342,actionable finding
+1343,straight line sign
+1344,reflux esophagitis
+1345,closed loop hernia
+1346,myxoid liposarcoma
+1347,pulsatile tinnitus
+1348,Mallory-Weiss tear
+1349,rectal dysfunction
+1350,growth retardation
+1351,fickle finger sign
+1352,pleural retraction
+1353,medial stripe sign
+1354,Mercedes Benz sign
+1355,ulcerative colitis
+1356,peri-implant fluid
+1357,spine degeneration
+1358,puff-of-smoke sign
+1359,reflux nephropathy
+1360,double bubble sign
+1361,sandwich vertebrae
+1362,multiple sclerosis
+1363,pleomorphic lipoma
+1364,Takayasu arteritis
+1365,ovarian vein varix
+1366,Milwaukee shoulder
+1367,avascular necrosis
+1368,Brailsford disease
+1369,moth-eaten pattern
+1370,pigment deposition
+1371,metastatic disease
+1372,amyloid angiopathy
+1373,pulmonary embolism
+1374,participating tail
+1375,triple bubble sign
+1376,hydronephrotic rim
+1377,perfusion disorder
+1378,renal hypertension
+1379,LI-RADS assessment
+1380,hepatic angle sign
+1381,mental retardation
+1382,target enhancement
+1383,injury due to burn
+1384,myomatous neoplasm
+1385,inducible ischemia
+1386,subtalar coalition
+1387,endometrial cancer
+1388,amyloid deposition
+1389,semi-consolidation
+1390,anteater nose sign
+1391,retinal detachment
+1392,communicating cyst
+1393,Playboy bunny sign
+1394,hyperplastic polyp
+1395,optic nerve drusen
+1396,cartilage disorder
+1397,hilum overlay sign
+1398,urogenital finding
+1399,Shmoo-shaped heart
+1400,beaded septum sign
+1401,abuts hepatic vein
+1402,sickle cell anemia
+1403,arthritis mutilans
+1404,unicornuate uterus
+1405,ductal enhancement
+1406,central osteophyte
+1407,hot cross bun sign
+1408,subphrenic abscess
+1409,non-enhancing mass
+1410,cystadenocarcinoma
+1411,vertebral fracture
+1412,skeletal dysplasia
+1413,washout appearance
+1414,skin calcification
+1415,bulging tumor sign
+1416,lesion enhancement
+1417,stunned myocardium
+1418,temporal arteritis
+1419,squamous papilloma
+1420,papillary necrosis
+1421,Cowper syringocele
+1422,neonatal hepatitis
+1423,gloved finger sign
+1424,airway abnormality
+1425,Cupid bow vertebra
+1426,tumbling bolt sign
+1427,cholangiohepatitis
+1428,negative pyelogram
+1429,medullomyoblastoma
+1430,single bubble sign
+1431,Malgaigne fracture
+1432,improper placement
+1433,chauffeur fracture
+1434,keratosis obturans
+1435,lollipop-tree sign
+1436,splenic hemorrhage
+1437,wall sign of ovary
+1438,tumoral calcinosis
+1439,halo sign of liver
+1440,ureteritis cystica
+1441,serous cystadenoma
+1442,striped colon sign
+1443,odontogenic myxoma
+1444,trolley-track sign
+1445,Madelung deformity
+1446,detrusor areflexia
+1447,true tumor capsule
+1448,medulloepithelioma
+1449,leafless tree sign
+1450,hyperbilirubinemia
+1451,infective discitis
+1452,drowned hilus sign
+1453,reversed halo sign
+1454,malignant neoplasm
+1455,pulmonary blastoma
+1456,autoimmune disease
+1457,neoplastic disease
+1458,periosteal desmoid
+1459,aortic nipple sign
+1460,corona enhancement
+1461,magnification sign
+1462,capsule appearance
+1463,tie-breaking rules
+1464,mass in or on skin
+1465,little finger sign
+1466,intralobular lines
+1467,rim sign of kidney
+1468,ring sign of colon
+1469,muscular disorder
+1470,Huntington chorea
+1471,air crescent sign
+1472,inspiratory depth
+1473,neuropathic joint
+1474,fetal abnormality
+1475,aortic dissection
+1476,discogenic change
+1477,fusiform aneurysm
+1478,neurofibromatosis
+1479,CT arrowhead sign
+1480,double track sign
+1481,medial calcinosis
+1482,nipple retraction
+1483,sagging rope sign
+1484,juxtaphrenic peak
+1485,bullous emphysema
+1486,cardiac tamponade
+1487,venous hemangioma
+1488,motor dysfunction
+1489,Mauclaire disease
+1490,vacuum facet sign
+1491,hibernating heart
+1492,Bouveret syndrome
+1493,dense vessel sign
+1494,synovial neoplasm
+1495,shoulder pad sign
+1496,ectopic pregnancy
+1497,beaten brass sign
+1498,testicular cancer
+1499,myocardial bridge
+1500,stent malposition
+1501,Rathke cleft cyst
+1502,compound odontoma
+1503,narrow transition
+1504,caustic gastritis
+1505,reticular pattern
+1506,halo sign of lung
+1507,venous thrombosis
+1508,chondrocalcinosis
+1509,colon cutoff sign
+1510,draped aorta sign
+1511,urethral stenosis
+1512,lucent liver sign
+1513,subdural hematoma
+1514,pneumopericardium
+1515,cardiac blur sign
+1516,Maffucci syndrome
+1517,ossifying fibroma
+1518,flexion deformity
+1519,pleural placquing
+1520,pancreatoblastoma
+1521,Galeazzi fracture
+1522,polyethylene wear
+1523,staghorn calculus
+1524,mixed liposarcoma
+1525,oligodendroglioma
+1526,polycythemia vera
+1527,displaced anatomy
+1528,spondylolisthesis
+1529,Tay-Sachs disease
+1530,whiskering effect
+1531,celery stalk sign
+1532,Terry Thomas sign
+1533,Friedreich ataxia
+1534,perineural spread
+1535,lobar dysmorphism
+1536,ring of fire sign
+1537,incisional hernia
+1538,Parkinson disease
+1539,carcinoma in situ
+1540,gastric carcinoma
+1541,widened loop sign
+1542,floppy thumb sign
+1543,dysplastic nodule
+1544,lipoblastomatosis
+1545,Piedmont fracture
+1546,septal thickening
+1547,pituitary adenoma
+1548,bag-of-worms sign
+1549,diversion colitis
+1550,cholesterol polyp
+1551,pancreatic cancer
+1552,stercoral colitis
+1553,metabolic disease
+1554,Medusa locks sign
+1555,Castleman disease
+1556,pine cone bladder
+1557,epidural hematoma
+1558,vascular disorder
+1559,saccular aneurysm
+1560,lesion brightness
+1561,Friedrich disease
+1562,rheumatic disease
+1563,depth inspiration
+1564,pulmonary disease
+1565,absent liver sign
+1566,CT angiogram sign
+1567,hematocrit effect
+1568,craniopharyngioma
+1569,disorder of spine
+1570,immature teratoma
+1571,radial bands sign
+1572,wall sign of lung
+1573,pseudokidney sign
+1574,thyroid acropachy
+1575,Gartner duct cyst
+1576,indistinct margin
+1577,relapsing leaflet
+1578,Semitic nose sign
+1579,esophageal cancer
+1580,fibrous dysplasia
+1581,ischemic penumbra
+1582,ruptured aneurysm
+1583,Hampton hump sign
+1584,Cockayne Syndrome
+1585,restricted motion
+1586,black pleura sign
+1587,flank stripe sign
+1588,bone-in-bone sign
+1589,twisted tape sign
+1590,focal enhancement
+1591,vacuum phenomenon
+1592,lesser sac hernia
+1593,Throckmorton sign
+1594,luminal narrowing
+1595,shaggy heart sign
+1596,Rigler notch sign
+1597,starry night sign
+1598,pneumomediastinum
+1599,rhombencephalitis
+1600,extrapleural sign
+1601,split pleura sign
+1602,focal prostatitis
+1603,systolic jet sign
+1604,ureteral calculus
+1605,abuts portal vein
+1606,odontogenic tumor
+1607,meniscal fragment
+1608,disorder of brain
+1609,embryonal sarcoma
+1610,lymphangiomatosis
+1611,colorectal cancer
+1612,hydropneumothorax
+1613,lucent cleft sign
+1614,hydatidiform mole
+1615,avulsion fracture
+1616,encephalomyelitis
+1617,shunt dysfunction
+1618,pulmonary process
+1619,ground-glass sign
+1620,erosive gastritis
+1621,pressure disorder
+1622,rheumatoid nodule
+1623,Alzheimer disease
+1624,Hofmeister defect
+1625,teardrop fracture
+1626,fracture malunion
+1627,aplasia of vermis
+1628,rotation disorder
+1629,crazy-paving sign
+1630,cavernous angioma
+1631,adenomatous polyp
+1632,spiculated margin
+1633,rim calcification
+1634,pseudo-rheumatoid
+1635,clover-leaf skull
+1636,Shepherd fracture
+1637,fracture nonunion
+1638,fluid-fluid level
+1639,Bankart deformity
+1640,bronchopneumonia
+1641,backwash ileitis
+1642,pruned tree sign
+1643,hair-on-end sign
+1644,cotton wool sign
+1645,Peyronie disease
+1646,Rieter arthritis
+1647,smoke inhalation
+1648,pseudotumor sign
+1649,organ point sign
+1650,hemolytic anemia
+1651,homogeneous fade
+1652,Madelung disease
+1653,Tillaux fracture
+1654,complex odontoma
+1655,hysterogram sign
+1656,bicornate uterus
+1657,perirenal P sign
+1658,speech pathology
+1659,rice kernel sign
+1660,pneumoperitoneum
+1661,choledochal cyst
+1662,giant cell tumor
+1663,high-grade tumor
+1664,mycotic aneurysm
+1665,Hodgkin lymphoma
+1666,double-line sign
+1667,encephalomalacia
+1668,pheochromocytoma
+1669,small orbit sign
+1670,uterus didelphys
+1671,sigmoid volvulus
+1672,microgallbladder
+1673,cord compression
+1674,hardware failure
+1675,AIDS cholangitis
+1676,pyelitis cystica
+1677,strawberry skull
+1678,siderotic nodule
+1679,lymphangiectasis
+1680,choroid plexitis
+1681,fibromyxosarcoma
+1682,horseshoe kidney
+1683,abrupt interface
+1684,sign of the cane
+1685,pubic varus sign
+1686,maternal rubella
+1687,multiple myeloma
+1688,Cowper duct cyst
+1689,valgus deformity
+1690,bladder ear sign
+1691,satellite nodule
+1692,vertebral fusion
+1693,global asymmetry
+1694,parrot beak tear
+1695,sphingolipidosis
+1696,ischemic colitis
+1697,loss of lordosis
+1698,coiled tube sign
+1699,Bennett fracture
+1700,angel wings sign
+1701,tree-in-bud sign
+1702,wandering spleen
+1703,lipohemarthrosis
+1704,Meniere syndrome
+1705,dumping syndrome
+1706,Morquio syndrome
+1707,pseudo-arthritis
+1708,tarsal coalition
+1709,trapped air sign
+1710,Andersson lesion
+1711,turret exostosis
+1712,uncal herniation
+1713,tumor track sign
+1714,duplication cyst
+1715,hitchhiker thumb
+1716,umbilical hernia
+1717,Rolando fracture
+1718,petrous apicitis
+1719,suture granuloma
+1720,pharyngeal pouch
+1721,coffee bean sign
+1722,dentigerous cyst
+1723,simple bone cyst
+1724,pulmonary nodule
+1725,butterfly shadow
+1726,craniosynostosis
+1727,third mogul sign
+1728,bowel dyskinesia
+1729,thrombophlebitis
+1730,pyloric tit sign
+1731,cystitis cystica
+1732,pleural effusion
+1733,leontiasis ossea
+1734,cartilage defect
+1735,islet cell tumor
+1736,antral gastritis
+1737,lobulated margin
+1738,Medusa head sign
+1739,band heterotopia
+1740,perirenal cobweb
+1741,disc height loss
+1742,small heart sign
+1743,B6 bronchus sign
+1744,toddler fracture
+1745,double duct sign
+1746,mesothelial cyst
+1747,bone bruise sign
+1748,irregular margin
+1749,multiple lesions
+1750,perinephric cyst
+1751,perianal fistula
+1752,vasoconstriction
+1753,pectus carinatum
+1754,resting ischemia
+1755,deep sulcus sign
+1756,chondroid lipoma
+1757,reverse rim sign
+1758,ependymoblastoma
+1759,direct extension
+1760,applecore lesion
+1761,bladder disorder
+1762,Pelken spur sign
+1763,hangman fracture
+1764,Kawasaki disease
+1765,pectus excavatum
+1766,double bleb sign
+1767,demineralization
+1768,hemangioblastoma
+1769,perfusion defect
+1770,Seymour fracture
+1771,complicated cyst
+1772,vascular disease
+1773,hormone disorder
+1774,chondrodysplasia
+1775,parosteal lipoma
+1776,subcapsular line
+1777,sunburst pattern
+1778,trough line sign
+1779,four-tendon sign
+1780,dialysis fistula
+1781,rabbit ears sign
+1782,parenchymal band
+1783,internal nodules
+1784,oligoastrocytoma
+1785,Kienbock disease
+1786,double cava sign
+1787,bladder calculus
+1788,neurenteric cyst
+1789,Dietrich disease
+1790,nodule-in-nodule
+1791,arteriosclerosis
+1792,enchondromatosis
+1793,lymphangiectasia
+1794,Moyamoya disease
+1795,naked facet sign
+1796,fatigue fracture
+1797,empty delta sign
+1798,Van Neck disease
+1799,disc dessication
+1800,Spigelian hernia
+1801,thymic wave sign
+1802,hyperenhancement
+1803,clear space sign
+1804,pericecal hernia
+1805,tacked-down sign
+1806,odontogenic cyst
+1807,obturator hernia
+1808,bronchiolectasis
+1809,pyloric stenosis
+1810,delayed emptying
+1811,starch synovitis
+1812,moth-eaten calyx
+1813,airspace disease
+1814,lesion periphery
+1815,synovial sarcoma
+1816,anastomotic leak
+1817,Theimann disease
+1818,rhabdomyosarcoma
+1819,somatostatinoma
+1820,Luftsichel sign
+1821,barium embolism
+1822,thick wall sign
+1823,focal asymmetry
+1824,Preiser disease
+1825,anterolisthesis
+1826,Fleischner line
+1827,cystic nephroma
+1828,splenic rupture
+1829,cathartic colon
+1830,headcheese sign
+1831,pachymeningitis
+1832,Indinavir stone
+1833,lingual thyroid
+1834,uric acid stone
+1835,fixator problem
+1836,growth disorder
+1837,osteochondrosis
+1838,villous adenoma
+1839,pseudo-fracture
+1840,carcinoid tumor
+1841,kidney disorder
+1842,waterfall hilum
+1843,leiomyoblastoma
+1844,intussusception
+1845,cervical fusion
+1846,scotty dog sign
+1847,thromboembolism
+1848,infection stone
+1849,Malemud disease
+1850,white line sign
+1851,chisel fracture
+1852,fishhook ureter
+1853,septic bursitis
+1854,faceless kidney
+1855,low-grade tumor
+1856,varus deformity
+1857,fibromyxolipoma
+1858,cystic fibrosis
+1859,dermatomyositis
+1860,cardiac disease
+1861,flat waist sign
+1862,sawtooth ureter
+1863,lesion focality
+1864,T-cell lymphoma
+1865,mosaic oligemia
+1866,Pierson disease
+1867,wide transition
+1868,Grisel syndrome
+1869,disc herniation
+1870,pipestem ureter
+1871,Naclerio V sign
+1872,milk of calcium
+1873,nodular pattern
+1874,distinctive rim
+1875,Ebstein anomaly
+1876,bare orbit sign
+1877,blister of bone
+1878,medulloblastoma
+1879,enlarged spleen
+1880,mucosal erosion
+1881,Barton fracture
+1882,dextroscoliosis
+1883,rim enhancement
+1884,applesauce sign
+1885,stepladder sign
+1886,solitary lesion
+1887,air-fluid level
+1888,viral pneumonia
+1889,tubular adenoma
+1890,bowler hat sign
+1891,atypical lipoma
+1892,renal halo sign
+1893,closed fracture
+1894,hemochromatosis
+1895,Gaucher disease
+1896,hemangiomatosis
+1897,hemangiosarcoma
+1898,rotation injury
+1899,air bronchogram
+1900,cardiac process
+1901,cholesterolosis
+1902,silhouette sign
+1903,steatohepatitis
+1904,septic embolism
+1905,ocular hypotony
+1906,lesion boundary
+1907,inverted U sign
+1908,Segond fracture
+1909,Terson syndrome
+1910,stress fracture
+1911,Chance fracture
+1912,Reiter syndrome
+1913,gallstone ileus
+1914,nodular density
+1915,Westermark sign
+1916,osteochondritis
+1917,cervical cancer
+1918,Ahlbäck disease
+1919,tissue embolism
+1920,light bulb sign
+1921,atherosclerosis
+1922,Whipple disease
+1923,phalangeal sign
+1924,cobra head sign
+1925,ependymal tumor
+1926,choriocarcinoma
+1927,solid carcinoma
+1928,adenomyomatosis
+1929,rigid loop sign
+1930,vertebral plana
+1931,V sign of chest
+1932,pulmonary sling
+1933,chondroblastoma
+1934,phyllodes tumor
+1935,pulmonary edema
+1936,neuroglial cyst
+1937,Kocher fracture
+1938,ram's horn sign
+1939,parchment heart
+1940,Type IV fistula
+1941,antral pad sign
+1942,leptomeningitis
+1943,wasp waist sign
+1944,lymphadenopathy
+1945,hypoenhancement
+1946,bowing fracture
+1947,inguinal hernia
+1948,triangular sign
+1949,Schwannomatosis
+1950,crossed ectopia
+1951,caustic colitis
+1952,saddle embolism
+1953,fluid-air level
+1954,inverted V sign
+1955,systolic doming
+1956,dural tail sign
+1957,miliary pattern
+1958,presbyesophagus
+1959,skin retraction
+1960,snake head sign
+1961,onion skin sign
+1962,thimble bladder
+1963,perineural cyst
+1964,nipple invasion
+1965,Hurler syndrome
+1966,pleural disease
+1967,sharp edge sign
+1968,water lily sign
+1969,skin thickening
+1970,Mount Fuji sign
+1971,acute pathology
+1972,viral infection
+1973,vallecular sign
+1974,osteoid osteoma
+1975,Deuel halo sign
+1976,acorn deformity
+1977,Buchman disease
+1978,hyperthyroidism
+1979,tripod fracture
+1980,prostate cancer
+1981,toothpaste sign
+1982,choanal atresia
+1983,obscured margin
+1984,disc protrusion
+1985,molar pregnancy
+1986,saber shin sign
+1987,metacarpal sign
+1988,entering airway
+1989,cementoblastoma
+1990,air fluid level
+1991,mature teratoma
+1992,Colles fracture
+1993,perineal hernia
+1994,Codman triangle
+1995,aortic stenosis
+1996,spinal stenosis
+1997,parapelvic cyst
+1998,comet tail sign
+1999,gastroenteritis
+2000,hypoventilation
+2001,hydrops fetalis
+2002,talar beak sign
+2003,candy cane sign
+2004,retention cyst
+2005,calcifications
+2006,Blount disease
+2007,berry aneurysm
+2008,spaghetti sign
+2009,gout arthritis
+2010,femoral hernia
+2011,retinoblastoma
+2012,hyperexpansion
+2013,airway ectasia
+2014,microlithiasis
+2015,Nabothian cyst
+2016,celiac disease
+2017,angiodysplasia
+2018,twin peak sign
+2019,ectopic kidney
+2020,osteosclerosis
+2021,obturator sign
+2022,optic neuritis
+2023,Richter hernia
+2024,Caffey disease
+2025,sciatic hernia
+2026,irregular mass
+2027,Köhler disease
+2028,yolk sac tumor
+2029,angiomyolipoma
+2030,nonuniform rim
+2031,retrolisthesis
+2032,xanthine stone
+2033,hyperkeratosis
+2034,pseudoaneurysm
+2035,Rancke complex
+2036,carcinofibroma
+2037,reverse 5 sign
+2038,whirlpool sign
+2039,flat tire sign
+2040,Panner disease
+2041,reverse 3 sign
+2042,liver disorder
+2043,hepatoblastoma
+2044,block vertebra
+2045,bronchiectasis
+2046,gastric cancer
+2047,fatty neoplasm
+2048,overtubulation
+2049,fibrous plaque
+2050,Smith fracture
+2051,carcinomatosis
+2052,cystic disease
+2053,lead pipe sign
+2054,sialolithiasis
+2055,phthisis bulbi
+2056,arachnoid cyst
+2057,adenocarcinoma
+2058,melorheostosis
+2059,Kerley A lines
+2060,accordian sign
+2061,renal agenesis
+2062,Kerley B lines
+2063,lead poisoning
+2064,ankle fracture
+2065,Kerley C lines
+2066,arrowhead sign
+2067,renal calculus
+2068,interface sign
+2069,jet phenomenon
+2070,disc extrusion
+2071,torus fracture
+2072,loss of height
+2073,osteoarthritis
+2074,ganglioneuroma
+2075,curvature sign
+2076,ovarian cancer
+2077,march fracture
+2078,nodular shadow
+2079,leiomyosarcoma
+2080,active disease
+2081,joint disorder
+2082,nipple changes
+2083,nipple shadows
+2084,disease spread
+2085,polymicrogyria
+2086,Iselin disease
+2087,histoplasmosis
+2088,vena cava sign
+2089,meconium ileus
+2090,pleural plaque
+2091,pyelonephritis
+2092,carcinosarcoma
+2093,osteochondroma
+2094,tropical ulcer
+2095,crossover sign
+2096,hyperinflation
+2097,pseudarthrosis
+2098,supinator sign
+2099,pneumothoraces
+2100,tram line sign
+2101,hyperperfusion
+2102,ependymal cyst
+2103,cyclops lesion
+2104,otitis externa
+2105,thyroid cancer
+2106,achondroplasia
+2107,fibroelastosis
+2108,mulberry stone
+2109,ventral hernia
+2110,pneumocephalus
+2111,fluid disorder
+2112,hemoperitoneum
+2113,chondrosarcoma
+2114,rhabdomyolysis
+2115,bifida occulta
+2116,Jones fracture
+2117,fat deposition
+2118,honeycomb lung
+2119,decompensation
+2120,ectopic tissue
+2121,Kummel disease
+2122,diverticulitis
+2123,Kaposi sarcoma
+2124,life buoy sign
+2125,pilonidal cyst
+2126,kyphoscoliosis
+2127,dacryoadenitis
+2128,tropical sprue
+2129,Kimura disease
+2130,cystic hygroma
+2131,hydronephrosis
+2132,enlarged liver
+2133,angular margin
+2134,arthrogryposis
+2135,patella infera
+2136,hyperlipidemia
+2137,chondromalacia
+2138,pneumoconiosis
+2139,dromedary hump
+2140,box-like heart
+2141,telangiectasia
+2142,gull wing sign
+2143,cerebral palsy
+2144,steal syndrome
+2145,tumor embolism
+2146,polka-dot sign
+2147,acroosteolysis
+2148,situs inversus
+2149,cardiomyopathy
+2150,Brodie abscess
+2151,burst fracture
+2152,dog's ear sign
+2153,Tornwaldt cyst
+2154,esophageal web
+2155,echogenic halo
+2156,incomplete rim
+2157,Apert syndrome
+2158,lacunar skull
+2159,hydrocephalus
+2160,neurosyphilis
+2161,constellation
+2162,Mandi disease
+2163,linguine sign
+2164,osteophytosis
+2165,Hicks disease
+2166,umbrella sign
+2167,Cromlech sign
+2168,diffuse spasm
+2169,meniscal cyst
+2170,jailbars sign
+2171,bronchiolitis
+2172,bathrocephaly
+2173,fish vertebra
+2174,displaced gas
+2175,extravasation
+2176,calcification
+2177,aspergillosis
+2178,thumbprinting
+2179,stromal tumor
+2180,shoulder sign
+2181,breast cancer
+2182,pelvic kidney
+2183,Paget disease
+2184,nose disorder
+2185,cephalization
+2186,septal defect
+2187,ameloblastoma
+2188,osteopetrosis
+2189,lesion margin
+2190,fat ring sign
+2191,pineoblastoma
+2192,spondylolysis
+2193,intravasation
+2194,bone disorder
+2195,heart disease
+2196,rhinoscleroma
+2197,cockade image
+2198,triangle sign
+2199,osteoblastoma
+2200,Grave disease
+2201,cardiac shunt
+2202,reversal sign
+2203,adenolymphoma
+2204,subependymoma
+2205,gastric ulcer
+2206,mediastinitis
+2207,periarthritis
+2208,parakeratosis
+2209,infinity sign
+2210,open fracture
+2211,talc embolism
+2212,osteonecrosis
+2213,fat halo sign
+2214,radiculopathy
+2215,consolidation
+2216,fibroelastoma
+2217,Neuhaser sign
+2218,sandwich sign
+2219,sausage digit
+2220,stump blowout
+2221,cholecystitis
+2222,myelofibrosis
+2223,Spalding sign
+2224,surgical scar
+2225,irregular rim
+2226,yin-yang sign
+2227,tenosynovitis
+2228,fragmentation
+2229,labyrinthitis
+2230,pleural fluid
+2231,mallet finger
+2232,perched facet
+2233,heel pad sign
+2234,malabsorption
+2235,bone fragment
+2236,low ADC value
+2237,oxalate stone
+2238,Sever disease
+2239,Littre hernia
+2240,flow disorder
+2241,blighted ovum
+2242,hiatal hernia
+2243,trigger point
+2244,Rett syndrome
+2245,acrosclerosis
+2246,ventriculitis
+2247,heart failure
+2248,appendicolith
+2249,imperforation
+2250,Schatzki ring
+2251,tumor in vein
+2252,ganglion cyst
+2253,polyarteritis
+2254,Burns disease
+2255,cor pulmonale
+2256,Ewing sarcoma
+2257,growth arrest
+2258,meconium plug
+2259,paraganglioma
+2260,dolicocephaly
+2261,hyperaeration
+2262,brachycephaly
+2263,keyboard sign
+2264,bear paw sign
+2265,sialodochitis
+2266,syndesmophyte
+2267,gastroparesis
+2268,ischemic core
+2269,football sign
+2270,lissencephaly
+2271,pancake brain
+2272,Crohn disease
+2273,lymphadenitis
+2274,lumbar hernia
+2275,regurgitation
+2276,rotoscoliosis
+2277,doughnut sign
+2278,Stierlin sign
+2279,proliferation
+2280,cholesteatoma
+2281,spheroid sign
+2282,opacification
+2283,calcium stone
+2284,histiocytosis
+2285,skin invasion
+2286,epicondylitis
+2287,pin loosening
+2288,scimitar sign
+2289,angioblastoma
+2290,smooth margin
+2291,figure 3 sign
+2292,Hoffa disease
+2293,beaded ureter
+2294,dens fracture
+2295,synovial cyst
+2296,ivory osteoma
+2297,gangliocytoma
+2298,hot nose sign
+2299,levoscoliosis
+2300,sialoblastoma
+2301,arachnoiditis
+2302,cystine stone
+2303,cysticercosis
+2304,os acetabulum
+2305,crescent sign
+2306,fixator break
+2307,phantom calyx
+2308,lollipop sign
+2309,Fahr syndrome
+2310,asterisk sign
+2311,water density
+2312,Milch disease
+2313,dural ectasia
+2314,angiokeratoma
+2315,plagiocephaly
+2316,renal failure
+2317,iron overload
+2318,ganglioglioma
+2319,pedestal sign
+2320,blood disease
+2321,Golden S sign
+2322,hypoperfusion
+2323,hypoinflation
+2324,neuroblastoma
+2325,scaphocephaly
+2326,osteomyelitis
+2327,Brenner tumor
+2328,astroblastoma
+2329,endometriosis
+2330,figure E sign
+2331,flail leaflet
+2332,moulage sign
+2333,pseudoplaque
+2334,hyperostosis
+2335,mesothelioma
+2336,ellipse sign
+2337,infiltration
+2338,lobster claw
+2339,urachal sign
+2340,colloid cyst
+2341,air embolism
+2342,peptic ulcer
+2343,encephalitis
+2344,imaging sign
+2345,bow tie sign
+2346,pancreatitis
+2347,thick septae
+2348,irregularity
+2349,Lung-RADS 4B
+2350,tuberculosis
+2351,fat pad sign
+2352,enthesophyte
+2353,hypertension
+2354,presbyphagia
+2355,hypoglycemia
+2356,polymyositis
+2357,urolithiasis
+2358,hyperlucency
+2359,duct changes
+2360,adamantinoma
+2361,brain damage
+2362,adenofibroma
+2363,keyhole sign
+2364,spina bifida
+2365,fatty streak
+2366,inspissation
+2367,phantom sign
+2368,hemarthrosis
+2369,trumpet sign
+2370,set of cysts
+2371,epiglottitis
+2372,fabella sign
+2373,melanocytoma
+2374,chondrolysis
+2375,nasal glioma
+2376,Lung-RADS 4X
+2377,arteriolitis
+2378,melting sign
+2379,fat embolism
+2380,steeple sign
+2381,tendinopathy
+2382,lesion shape
+2383,MCA dot sign
+2384,aspergilloma
+2385,kidney sweat
+2386,snowman sign
+2387,monocle sign
+2388,radiolucency
+2389,Hellmer sign
+2390,Lung-RADS 4A
+2391,turricephaly
+2392,shading sign
+2393,hypophysitis
+2394,osteosarcoma
+2395,squeeze sign
+2396,annular tear
+2397,air trapping
+2398,malalignment
+2399,lobular mass
+2400,arcuate sign
+2401,fissure sign
+2402,ovarian cyst
+2403,trident hand
+2404,Dias disease
+2405,iceberg sign
+2406,cardiomegaly
+2407,ribbon bowel
+2408,padlock sign
+2409,shotgun sign
+2410,Phrygian cap
+2411,lymphangioma
+2412,appendicitis
+2413,septal lines
+2414,inflammation
+2415,mixed glioma
+2416,honeycombing
+2417,otitis media
+2418,big rib sign
+2419,Hawkins sign
+2420,displacement
+2421,perineurioma
+2422,dysgerminoma
+2423,tumor in IVC
+2424,degeneration
+2425,porencephaly
+2426,angiosarcoma
+2427,articulation
+2428,myelomalacia
+2429,otosclerosis
+2430,mucormycosis
+2431,knuckle sign
+2432,angiofibroma
+2433,fibroadenoma
+2434,pericarditis
+2435,fibrosarcoma
+2436,nutmeg liver
+2437,high scapula
+2438,picket fence
+2439,endometritis
+2440,adenosarcoma
+2441,osteoporosis
+2442,isoenhancing
+2443,nonenhancing
+2444,mesenteritis
+2445,pseudolesion
+2446,radiodensity
+2447,stipple sign
+2448,shear injury
+2449,jumped facet
+2450,diverticulum
+2451,malakoplakia
+2452,pyonephrosis
+2453,fibromyalgia
+2454,reticulation
+2455,oil embolism
+2456,dissociation
+2457,plasmacytoma
+2458,Haas disease
+2459,chalice sign
+2460,dermoid cyst
+2461,pneumothorax
+2462,intimal flap
+2463,spermatocele
+2464,enthesopathy
+2465,mesenchymoma
+2466,pneumatocele
+2467,gynecomastia
+2468,endometrioma
+2469,protuberance
+2470,blunt injury
+2471,matrix stone
+2472,bamboo spine
+2473,fat necrosis
+2474,sialadenitis
+2475,tangent sign
+2476,neurofibroma
+2477,central scar
+2478,mixed margin
+2479,osteomalacia
+2480,regeneration
+2481,dog leg sign
+2482,panniculitis
+2483,patella alta
+2484,compensation
+2485,pleural tail
+2486,pedicle sign
+2487,duct ectasia
+2488,ossification
+2489,Triton tumor
+2490,putty kidney
+2491,Schmorl node
+2492,hyperdensity
+2493,pseudocavity
+2494,bladder sign
+2495,liposarcoma
+2496,broncholith
+2497,rosary sign
+2498,perforation
+2499,eventration
+2500,hypertrophy
+2501,atelectases
+2502,carpal sign
+2503,child abuse
+2504,coin lesion
+2505,mastoiditis
+2506,meningocele
+2507,radiopacity
+2508,radial fold
+2509,Lung-RADS 1
+2510,fibrolipoma
+2511,Lung-RADS 3
+2512,Poppel sign
+2513,torticollis
+2514,spondylosis
+2515,myelolipoma
+2516,hyperplasia
+2517,sickle sign
+2518,transection
+2519,pneumonitis
+2520,brain death
+2521,esophagitis
+2522,ureterocele
+2523,nocardiosis
+2524,pineocytoma
+2525,nubbin sign
+2526,Lung-RADS 0
+2527,glucagonoma
+2528,abnormality
+2529,echotexture
+2530,cystadenoma
+2531,thin septae
+2532,nipple sign
+2533,pneumatosis
+2534,kernicterus
+2535,pituicytoma
+2536,simple cyst
+2537,bronchocele
+2538,dagger sign
+2539,Page kidney
+2540,procidentia
+2541,cholangitis
+2542,lung cancer
+2543,breast mass
+2544,malrotation
+2545,compression
+2546,Catlin sign
+2547,angiolipoma
+2548,denervation
+2549,atelectasis
+2550,memory loss
+2551,string sign
+2552,ribbon ribs
+2553,arthropathy
+2554,bony lesion
+2555,instability
+2556,bone island
+2557,micronodule
+2558,marble bone
+2559,shadow sign
+2560,focal bulge
+2561,index tumor
+2562,Lung-RADS 2
+2563,tattoo sign
+2564,bronchogram
+2565,banana sign
+2566,Wilms tumor
+2567,pharyngitis
+2568,engorgement
+2569,astrocytoma
+2570,radial tear
+2571,sulcus sign
+2572,gliosarcoma
+2573,enlargement
+2574,malposition
+2575,fat packing
+2576,collar sign
+2577,hypothermia
+2578,thymic cyst
+2579,rhabdomyoma
+2580,lesion load
+2581,spiral sign
+2582,BI-RADS N/A
+2583,involvement
+2584,hypotension
+2585,mucopyocele
+2586,skin lesion
+2587,border sign
+2588,prostatitis
+2589,peritonitis
+2590,ripple sign
+2591,pylorospasm
+2592,dislocation
+2593,hydromyelia
+2594,sarcoidosis
+2595,granulomata
+2596,anteversion
+2597,aspergillus
+2598,enchondroma
+2599,impingement
+2600,spondylitis
+2601,macronodule
+2602,healed tear
+2603,radial scar
+2604,scleroderma
+2605,duplication
+2606,hypokinesia
+2607,fat C2 sign
+2608,dimple sign
+2609,adenomyosis
+2610,disk kidney
+2611,obstruction
+2612,apical sign
+2613,apophysitis
+2614,enhancement
+2615,myocarditis
+2616,cupola sign
+2617,subluxation
+2618,infertility
+2619,Rigler sign
+2620,stentogyria
+2621,zoning sign
+2622,laryngocele
+2623,tonsillitis
+2624,corner sign
+2625,hyatid cyst
+2626,thalassemia
+2627,inspiration
+2628,spade shape
+2629,pseudo-gout
+2630,thyroiditis
+2631,contracture
+2632,trisomy 18
+2633,osteolysis
+2634,protrusion
+2635,vasculitis
+2636,schwannoma
+2637,thickening
+2638,megaureter
+2639,angulation
+2640,metaplasia
+2641,swirl sign
+2642,infiltrate
+2643,angle sign
+2644,metastasis
+2645,dysgenesis
+2646,confluence
+2647,separation
+2648,dissection
+2649,dilatation
+2650,starry sky
+2651,ureteritis
+2652,hemothorax
+2653,thorn sign
+2654,remodeling
+2655,tortuosity
+2656,jack stone
+2657,disc bulge
+2658,asbestosis
+2659,meningioma
+2660,acromegaly
+2661,shell sign
+2662,round mass
+2663,ascariasis
+2664,chest mass
+2665,retraction
+2666,lymphedema
+2667,malignancy
+2668,hemangioma
+2669,joint mice
+2670,detachment
+2671,oocephalus
+2672,adenopathy
+2673,spider web
+2674,oncocytoma
+2675,smile sign
+2676,osteophyte
+2677,Baker cyst
+2678,colon sign
+2679,Honda sign
+2680,hemorrhage
+2681,oxycephaly
+2682,dyskinesia
+2683,infarction
+2684,epidermoid
+2685,apical cap
+2686,congestion
+2687,H vertebra
+2688,myelopathy
+2689,varicocele
+2690,enterolith
+2691,ankylosing
+2692,thrombosis
+2693,tendinitis
+2694,effacement
+2695,omega sign
+2696,adenomyoma
+2697,bronchitis
+2698,comet sign
+2699,involution
+2700,meningitis
+2701,LR-Treated
+2702,insulinoma
+2703,lemon sign
+2704,gastrinoma
+2705,tooth sign
+2706,BI-RADS 4B
+2707,psoas sign
+2708,resorption
+2709,cellulitis
+2710,prominence
+2711,collateral
+2712,osteopenia
+2713,wedge sign
+2714,metastases
+2715,attachment
+2716,fibromyoma
+2717,herniation
+2718,BI-RADS 4A
+2719,aspiration
+2720,pseudocyst
+2721,deposition
+2722,pachygyria
+2723,surfer ear
+2724,tendinosis
+2725,absent rim
+2726,renal cyst
+2727,dehiscence
+2728,panda sign
+2729,assessment
+2730,liver mass
+2731,lymphocele
+2732,neuropathy
+2733,distention
+2734,laceration
+2735,duodenitis
+2736,klebsiella
+2737,nodularity
+2738,BI-RADS 4C
+2739,thumb sign
+2740,phlebolith
+2741,urine leak
+2742,distension
+2743,enteritis
+2744,impaction
+2745,arthritis
+2746,neoplasia
+2747,stricture
+2748,bone cyst
+2749,diffusion
+2750,expansion
+2751,claw foot
+2752,gallstone
+2753,diastasis
+2754,ball sign
+2755,BI-RADS 6
+2756,oval mass
+2757,emphysema
+2758,cord sign
+2759,okra sign
+2760,fluorosis
+2761,comb sign
+2762,retinitis
+2763,papilloma
+2764,hepatitis
+2765,claw hand
+2766,germinoma
+2767,infection
+2768,paralysis
+2769,processes
+2770,sclerosis
+2771,scoliosis
+2772,retention
+2773,exostosis
+2774,hibernoma
+2775,brim sign
+2776,enostosis
+2777,BI-RADS 5
+2778,carinatum
+2779,spur sign
+2780,leiomyoma
+2781,excavatum
+2782,chondroma
+2783,hyperemia
+2784,synovitis
+2785,influenza
+2786,hematuria
+2787,achalasia
+2788,cystocele
+2789,phlebitis
+2790,psoriasis
+2791,arteritis
+2792,dysphagia
+2793,ADC value
+2794,falx sign
+2795,BI-RADS 2
+2796,hamartoma
+2797,bite sign
+2798,pleuritis
+2799,edge sign
+2800,stranding
+2801,pathology
+2802,pneumonia
+2803,granuloma
+2804,pertussis
+2805,cirrhosis
+2806,synovioma
+2807,hydrocele
+2808,parotitis
+2809,thick rim
+2810,densities
+2811,microlith
+2812,steatosis
+2813,asymmetry
+2814,fasciitis
+2815,coprolith
+2816,ankylosis
+2817,contusion
+2818,vasospasm
+2819,silicosis
+2820,dysplasia
+2821,poisoning
+2822,deformity
+2823,excursion
+2824,hump sign
+2825,arthrosis
+2826,flap tear
+2827,cementoma
+2828,carcinoma
+2829,hook sign
+2830,rectocele
+2831,curvature
+2832,BI-RADS 3
+2833,BI-RADS 1
+2834,hammertoe
+2835,sinusitis
+2836,cherubism
+2837,BI-RADS 4
+2838,BI-RADS 0
+2839,enhancing
+2840,wave sign
+2841,lung mass
+2842,splenosis
+2843,reduction
+2844,gastritis
+2845,peliosis
+2846,seminoma
+2847,vomiting
+2848,chordoma
+2849,blurring
+2850,ACL tear
+2851,neoplasm
+2852,FBI sign
+2853,mucocele
+2854,avulsion
+2855,calculus
+2856,lymphoma
+2857,reaction
+2858,azotemia
+2859,ischemia
+2860,akinesia
+2861,clubbing
+2862,GI-bleed
+2863,volvulus
+2864,puncture
+2865,cyclitis
+2866,necrosis
+2867,fibrosis
+2868,xanthoma
+2869,diabetes
+2870,kyphosis
+2871,cavities
+2872,dementia
+2873,apoplexy
+2874,fat sign
+2875,whiplash
+2876,myelitis
+2877,bursitis
+2878,syphilis
+2879,pyelitis
+2880,asplenia
+2881,blebbing
+2882,hematoma
+2883,free air
+2884,leukemia
+2885,tumorlet
+2886,adhesion
+2887,mycetoma
+2888,osteitis
+2889,crowding
+2890,endoleak
+2891,agenesis
+2892,teratoma
+2893,odontoma
+2894,jet sign
+2895,artifact
+2896,stenosis
+2897,diskitis
+2898,swelling
+2899,embolism
+2900,dilation
+2901,aortitis
+2902,thin rim
+2903,myositis
+2904,thinning
+2905,effusion
+2906,filtrate
+2907,plaquing
+2908,fracture
+2909,neuritis
+2910,prolapse
+2911,adenosis
+2912,aneurysm
+2913,cystitis
+2914,collapse
+2915,lordosis
+2916,tau sign
+2917,oligemia
+2918,thrombus
+2919,synechia
+2920,melanoma
+2921,thymoma
+2922,hydrops
+2923,atresia
+2924,ascites
+2925,shadows
+2926,absence
+2927,hygroma
+2928,lipping
+2929,residua
+2930,colitis
+2931,disease
+2932,paresis
+2933,osteoma
+2934,deposit
+2935,pattern
+2936,torsion
+2937,process
+2938,lucency
+2939,seizure
+2940,aplasia
+2941,marking
+2942,CADASIL
+2943,patency
+2944,desmoid
+2945,anosmia
+2946,sarcoid
+2947,wedging
+2948,anomaly
+2949,fibroma
+2950,atrophy
+2951,density
+2952,thecoma
+2953,abscess
+2954,gliosis
+2955,fissure
+2956,myeloma
+2957,rupture
+2958,cuffing
+2959,ectasia
+2960,adenoma
+2961,rubella
+2962,fistula
+2963,opacity
+2964,blunted
+2965,rickets
+2966,sarcoma
+2967,empyema
+2968,ridging
+2969,allergy
+2970,scurvy
+2971,stroke
+2972,island
+2973,J sign
+2974,stasis
+2975,ptosis
+2976,shadow
+2977,3 sign
+2978,myxoma
+2979,mucous
+2980,pannus
+2981,W sign
+2982,goiter
+2983,strain
+2984,sprain
+2985,seroma
+2986,LR-4/5
+2987,megaly
+2988,ranula
+2989,hernia
+2990,cancer
+2991,streak
+2992,glioma
+2993,lesion
+2994,plaque
+2995,callus
+2996,VIPoma
+2997,injury
+2998,sepsis
+2999,otitis
+3000,keloid
+3001,stripe
+3002,asthma
+3003,crease
+3004,strand
+3005,nodule
+3006,reflux
+3007,tophus
+3008,aureus
+3009,bowing
+3010,uremia
+3011,masses
+3012,C sign
+3013,defect
+3014,LR-5us
+3015,lipoma
+3016,trauma
+3017,fusion
+3018,edema
+3019,tumor
+3020,focus
+3021,stone
+3022,ulcer
+3023,LR-5V
+3024,ascvd
+3025,fluid
+3026,lupus
+3027,croup
+3028,death
+3029,LR-5g
+3030,polyp
+3031,hydro
+3032,varix
+3033,break
+3034,ileus
+3035,spasm
+3036,plana
+3037,bolus
+3038,wedge
+3039,shunt
+3040,tract
+3041,flail
+3042,wound
+3043,lump
+3044,flow
+3045,asvd
+3046,LR-4
+3047,cast
+3048,node
+3049,halo
+3050,copd
+3051,plug
+3052,cyst
+3053,LR-3
+3054,mass
+3055,dome
+3056,tear
+3057,bleb
+3058,fade
+3059,foci
+3060,LR-M
+3061,band
+3062,cone
+3063,AIDS
+3064,LR-5
+3065,LR-2
+3066,scar
+3067,spur
+3068,LR-1
+3069,wart
+3070,leak
+3071,tilt
+3072,air
+3073,sac
+3074,gas
+3075,bony lesion
+3076,congestive heart failure
+3077,infiltration

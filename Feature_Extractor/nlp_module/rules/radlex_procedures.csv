@@ -1,0 +1,350 @@
+,name
+0,continent ileostomy reservoir
+1,Fallopian tube recanalization
+2,omental or mesenteric surgery
+3,portal-systemic shunt surgery
+4,balloon dilation of structure
+5,unicompartmental arthroplasty
+6,extraction of biliary calculi
+7,vertical-banded gastroplasty
+8,removal of vascular calculus
+9,vascular treatment procedure
+10,percutaneous cholecystostomy
+11,coronary artery bypass graft
+12,cervical fusionpostoperative
+13,gastroesophageal anastomosis
+14,biliary-enteric anastomosis
+15,segmental colonic resection
+16,uretero-sigmoid anastomosis
+17,small bowel transplantation
+18,uterine artery embolization
+19,ovarian autotransplantation
+20,gastric bubble and balloon
+21,venous treatment procedure
+22,ileotransverse anastomosis
+23,pancreatic transplantation
+24,small bowel loop diversion
+25,abdominoperineal resection
+26,ovaries or adnexal surgery
+27,endovenous laser treatment
+28,esophageal varices therapy
+29,balloon dilation procedure
+30,percutaneous sympathectomy
+31,pharmacologic intervention
+32,renal autotransplantation
+33,androgen ablation therapy
+34,choledochocholedochostomy
+35,ileal ureter construction
+36,vaginal or labial surgery
+37,double-barreled colostomy
+38,biliopancreatic diversion
+39,pediatric cardiac surgery
+40,enteroenteric anastomosis
+41,exocrine anastomotic leak
+42,transuretero ureterostomy
+43,hepatic subsegmentectomy
+44,endoscopic sclerotherapy
+45,endoscopic laser therapy
+46,gastrointestinal surgery
+47,hepatic trisegmentectomy
+48,augmentation cystoplasty
+49,biliary bypass procedure
+50,urinary tract dilatation
+51,adjustable gastric band
+52,cricopharyngeal myotomy
+53,coronary bypass surgery
+54,ileosigmoid anastomosis
+55,cardiac transplantation
+56,gastric stump carcinoma
+57,ureteral reimplantation
+58,cystodiathermy of tumor
+59,dilation and evacuation
+60,mechanical thrombectomy
+61,horizontal gastroplasty
+62,musculoskeletal surgery
+63,radiofrequency ablation
+64,pancreaticoduodenectomy
+65,vertebral augmentation
+66,biliopancreatic bypass
+67,low anterior resection
+68,hepatic wedge excision
+69,abdominal wall surgery
+70,cardiovascular surgery
+71,choledochoduodenostomy
+72,foreign body retrieval
+73,dilation and curettage
+74,perineal urethrostomy
+75,lymph node dissection
+76,Nissen fundoplication
+77,cholecystojejunostomy
+78,testicular prosthesis
+79,esophageal intubation
+80,Blalock-Taussig shunt
+81,colonic interposition
+82,pancreatic nucleation
+83,coloanal pull-through
+84,Billroth II procedure
+85,fracture augmentation
+86,proximal embolization
+87,genitourinary surgery
+88,cryosurgical ablation
+89,dilation of structure
+90,choledochojejunostomy
+91,bile-duct exploration
+92,hepatic segmentectomy
+93,total proctocolectomy
+94,esophageal bougienage
+95,ileoanal pull-through
+96,seminal vesiculectomy
+97,esophageal dilatation
+98,salpingo-oophorectomy
+99,hepatobiliary surgery
+100,gastric pull-through
+101,joint reconstruction
+102,colon loop diversion
+103,ureterosigmoidostomy
+104,Billroth I procedure
+105,coloanal anastomosis
+106,internal urethrotomy
+107,ureteroneocystostomy
+108,small bowel surgery
+109,injection treatment
+110,right hemicolectomy
+111,distal embolization
+112,Collis gastroplasty
+113,temporary occlusion
+114,hepaticojejunostomy
+115,esophagogastrectomy
+116,postcholecystectomy
+117,left hemicolectomy
+118,ureterocalycostomy
+119,jejunoileal bypass
+120,dropped gallstones
+121,surgical procedure
+122,partial cystectomy
+123,hypospadias repair
+124,anterior resection
+125,gastroduodenostomy
+126,nephroureterectomy
+127,subtotal colectomy
+128,lymph node surgery
+129,nephroureterostomy
+130,thrombin injection
+131,orthopedic surgery
+132,cystoprostatectomy
+133,microwave ablation
+134,side-to-side pouch
+135,chemoembolization
+136,Norwood procedure
+137,esophagus surgery
+138,tumor enucleation
+139,gastric resection
+140,urinary diversion
+141,colonic resection
+142,hepatic lobectomy
+143,nephrolitholapaxy
+144,steroid injection
+145,bariatric surgery
+146,pyloric exclusion
+147,endometriomectomy
+148,forceps retrieval
+149,gastroenterostomy
+150,fracture fixation
+151,gastrojejunostomy
+152,bowel anastomosis
+153,epispadias repair
+154,variceal banding
+155,Fontan procedure
+156,Cesarean section
+157,diverticulectomy
+158,cystogastrostomy
+159,cyst-gastrostomy
+160,T tube placement
+161,vaginal delivery
+162,hemiarthroplasty
+163,cystojejunostomy
+164,pancreas surgery
+165,prostate surgery
+166,stab phlebectomy
+167,object retrieval
+168,urethral surgery
+169,basket retrieval
+170,cholecystostomy
+171,cholangioplasty
+172,Waterston shunt
+173,gastroileostomy
+174,bladder surgery
+175,postthoracotomy
+176,duodenal switch
+177,arterial switch
+178,transplantation
+179,ventriculostomy
+180,stomach surgery
+181,lymphadenectomy
+182,total colectomy
+183,stricturoplasty
+184,snare retrieval
+185,ileal reservoir
+186,cholecystectomy
+187,varicocelectomy
+188,gastric banding
+189,Beger Procedure
+190,adrenal surgery
+191,uterus surgery
+192,salpingoplasty
+193,loop colostomy
+194,kidney surgery
+195,pancreatectomy
+196,endometrectomy
+197,gastric bypass
+198,Hartmann pouch
+199,spleen surgery
+200,poststernotomy
+201,Heller myotomy
+202,breast surgery
+203,abdominoplasty
+204,Frey procedure
+205,mucous fistula
+206,ileoanal pouch
+207,vertebroplasty
+208,ureter surgery
+209,track dilation
+210,sphincterotomy
+211,postlumpectomy
+212,gastric pouch
+213,endopyelotomy
+214,liver surgery
+215,esophagectomy
+216,thoracentesis
+217,bone grafting
+218,chest surgery
+219,spinal fusion
+220,pyloromyotomy
+221,ileal conduit
+222,prostatectomy
+223,herniorrhaphy
+224,end colostomy
+225,thyroidectomy
+226,HCC treatment
+227,Indiana pouch
+228,colon surgery
+229,brachytherapy
+230,urinary pouch
+231,pneumonectomy
+232,urethroplasty
+233,postoperative
+234,ileocecectomy
+235,splenorrhaphy
+236,adrenalectomy
+237,midsternotomy
+238,tympanoplasty
+239,thrombectomy
+240,thrombolysis
+241,radiotherapy
+242,appendectomy
+243,hymenoplasty
+244,radiosurgery
+245,bronchoscopy
+246,ureterectomy
+247,scintigraphy
+248,tracheostomy
+249,ureterostomy
+250,ureterolysis
+251,densitometry
+252,vaginoplasty
+253,hemodialysis
+254,embolization
+255,arthroplasty
+256,laryngectomy
+257,prostatotomy
+258,Studer pouch
+259,urethrectomy
+260,urethrostomy
+261,cholecystomy
+262,postsurgical
+263,pyloroplasty
+264,orchioplasty
+265,thoracostomy
+266,cryoablation
+267,hysterectomy
+268,chemotherapy
+269,kyphoplasty
+270,gastrostomy
+271,angiography
+272,thoracotomy
+273,enterostomy
+274,pyeloplasty
+275,psoas hitch
+276,jejunostomy
+277,Glenn shunt
+278,mammography
+279,orchiectomy
+280,fluoroscopy
+281,enterectomy
+282,arthrodesis
+283,postsurgery
+284,nephrostomy
+285,hepatectomy
+286,labioplasty
+287,polypectomy
+288,pleurodesis
+289,splenectomy
+290,vesicostomy
+291,atherectomy
+292,blind pouch
+293,vaginectomy
+294,ear surgery
+295,angioplasty
+296,nephrectomy
+297,tracheotomy
+298,replacement
+299,omentectomy
+300,orchiopexy
+301,Enterotomy
+302,sternotomy
+303,nephropexy
+304,gastropexy
+305,episiotomy
+306,myomectomy
+307,blind loop
+308,Boari flap
+309,orchiotomy
+310,phlebotomy
+311,corpectomy
+312,antrectomy
+313,tomography
+314,cystectomy
+315,mastectomy
+316,transplant
+317,Kock pouch
+318,lumpectomy
+319,injection
+320,colostomy
+321,plication
+322,cystotomy
+323,procedure
+324,osteotomy
+325,cecostomy
+326,ileostomy
+327,lobectomy
+328,scanogram
+329,screening
+330,vasectomy
+331,infusion
+332,dialysis
+333,vagotomy
+334,vertebro
+335,abortion
+336,tenotomy
+337,ligation
+338,ablation
+339,surgery
+340,J pouch
+341,S pouch
+342,bypass
+343,repair
+344,plasty
+345,fusion
+346,postop
+347,biopsy
+348,cabg

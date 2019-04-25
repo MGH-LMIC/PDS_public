@@ -1,0 +1,444 @@
+,name
+0,transcutaneous electrical neural stimulation unit
+1,endocavitary curved linear array transducer
+2,restricted field of view body gradient coil
+3,automated implantable cardiac defibrillator
+4,solid-state crystal scintillation detector
+5,solid-state ceramic scintillation detector
+6,functional magnetic resonance imaging coil
+7,intravascular rotating crystal transducer
+8,less invasive stabilization system plate
+9,intravascular rotating mirror transducer
+10,peripheral intravenous central catheter
+11,programmable valve for shunt catheter
+12,endocavitary annular array transducer
+13,intravascular phased array transducer
+14,endocavitary phased array transducer
+15,transmit-receive radiofrequency coil
+16,positron emission tomography camera
+17,ACL graft polyester titanium button
+18,endocavitary mechanical transducer
+19,magnetic resonance imaging coil
+20,sector annular array transducer
+21,dorsal column stimulation unit
+22,curved linear array transducer
+23,rotating slant hole collimator
+24,vector phased array transducer
+25,endocavitary linear transducer
+26,sector phased array transducer
+27,cardiac rhythm therapy device
+28,partial ossicular replacement
+29,continuously rotating tube CT
+30,primary transmit-receive coil
+31,intracranial pressure monitor
+32,temperature monitoring device
+33,low profile balloon catheter
+34,transmit radiofrequency coil
+35,internally cooled applicator
+36,sector mechanical transducer
+37,mechanical sector transducer
+38,arthroplasty implant device
+39,straight cluster applicator
+40,receive radiofrequency coil
+41,fourth generation CT device
+42,unicompartmental prosthesis
+43,umbilical arterial catheter
+44,total ossicular replacement
+45,flexible diffuser laser tip
+46,second generation CT device
+47,periarticular locking plate
+48,ventriculoperitoneal shunt
+49,first generation CT device
+50,linear resistive shim coil
+51,transesophageal transducer
+52,straight single applicator
+53,percutaneous drainage tube
+54,ceramic surgical implement
+55,electroencephalogram probe
+56,platinum embolization coil
+57,third generation CT device
+58,particulate embolic agent
+59,scattering dome laser tip
+60,epicardial pacemaker wire
+61,standard balloon catheter
+62,portion of medical device
+63,temporary pacemaker patch
+64,superconducting shim coil
+65,dynamic compression screw
+66,titanium interbody spacer
+67,single-element transducer
+68,denture prosthetic device
+69,single crystal transducer
+70,umbilical venous catheter
+71,cerebrospinal fluid shunt
+72,fully constrained implant
+73,non-mechanical transducer
+74,dynamic compression plate
+75,demineralized bone matrix
+76,intraaortic balloon pump
+77,Xenon ionization chamber
+78,split crystal transducer
+79,multi-element transducer
+80,seven-pinhole collimator
+81,internally inserted coil
+82,nasoenteric feeding tube
+83,whole body gradient coil
+84,sector phased transducer
+85,prosthetic cardiac valve
+86,birds nest venous filter
+87,stationary multi-channel
+88,silicone breast implant
+89,curved array transducer
+90,central venous catheter
+91,phased array transducer
+92,endocavitary transducer
+93,localized transmit coil
+94,steel embolization coil
+95,linear array transducer
+96,gastrojejuenostomy tube
+97,endovascular transducer
+98,semiconstrained implant
+99,localized gradient coil
+100,hemiarthroplasty device
+101,syringoperitoneal shunt
+102,brachytherapy catheter
+103,ventriculoatrial shunt
+104,nonconstrained implant
+105,multi-tined applicator
+106,denture retention post
+107,bone stimulator device
+108,drug delivery catheter
+109,venous access catheter
+110,endovaginal transducer
+111,vagus nerve stimulator
+112,localized receive coil
+113,electrocardiogram lead
+114,interfragmentary screw
+115,nonhydrophilic dilator
+116,nuclear imaging device
+117,spinal fixation device
+118,lumboperitoneal shunt
+119,ultrasound transducer
+120,high-pressure balloon
+121,ACL graft suture post
+122,saline breast implant
+123,cardiac defibrillator
+124,deep brain stimulator
+125,electrical stimulator
+126,tibial condylar plate
+127,bone graft substitute
+128,endoscopic transducer
+129,endorectal transducer
+130,mechanical transducer
+131,other breast implant
+132,standard pin fixator
+133,low-pressure balloon
+134,noncompliant balloon
+135,cryoprobe applicator
+136,reconstruction plate
+137,perfusion applicator
+138,contraceptive device
+139,monopolar applicator
+140,surface arthroplasty
+141,multihole collimator
+142,non-linear shim coil
+143,electrode applicator
+144,clinical transducer
+145,interventional wire
+146,silicon drift diode
+147,interventional coil
+148,combined transducer
+149,radiofrequency coil
+150,nonhydrophilic wire
+151,arthroplasty device
+152,hydrophilic dilator
+153,recording electrode
+154,suture anchor screw
+155,intermedullary nail
+156,intrauterine device
+157,serrated needle tip
+158,vertebral body cage
+159,resistive shim coil
+160,anti-ringing filter
+161,ACL graft cross pin
+162,shapeable wire tip
+163,orbital prosthesis
+164,diamond needle tip
+165,orthopedic implant
+166,iliac artery graft
+167,drug delivery pump
+168,surgical implement
+169,ossicle prosthesis
+170,antenna applicator
+171,interference screw
+172,cryoplasty balloon
+173,bipolar applicator
+174,annular transducer
+175,non-infusible wire
+176,surgical equipment
+177,Swan-Ganz catheter
+178,steerable wire tip
+179,detachable balloon
+180,pinhole collimator
+181,synthetic material
+182,implantable device
+183,linear transducer
+184,orthopedic device
+185,multinuclear coil
+186,tracheostomy tube
+187,compliant balloon
+188,ocular prosthesis
+189,medication device
+190,straight wire tip
+191,stapes prostheses
+192,thoracostomy tube
+193,embolization coil
+194,hemostatic sheath
+195,drainage catheter
+196,biopsy instrument
+197,curved transducer
+198,elliptical filter
+199,temperature probe
+200,syndesmotic screw
+201,temperature patch
+202,tympanostomy tube
+203,cricothyroid tube
+204,endotracheal tube
+205,stabilization rod
+206,nasotracheal tube
+207,endovascular coil
+208,orotracheal tube
+209,hydrophilic wire
+210,nasogastric tube
+211,fiber applicator
+212,pigtail catheter
+213,endoluminal coil
+214,orthopedic plate
+215,embolic material
+216,gravity injector
+217,peel away sheath
+218,bevel needle tip
+219,ACL graft washer
+220,antibiotic beads
+221,external fixator
+222,pediatric filter
+223,orthopedic screw
+224,mediastinal tube
+225,separable filter
+226,balloon catheter
+227,linear shim coil
+228,cochlear implant
+229,brain stimulator
+230,ACL graft button
+231,ACL graft staple
+232,cancellous screw
+233,ij perm catheter
+234,nephrostomy tube
+235,ACL graft device
+236,carmustine wafer
+237,tube or catheter
+238,endovaginal coil
+239,internal fixator
+240,orthopedic cast
+241,fixation device
+242,artificial disk
+243,pulse generator
+244,pinless fixator
+245,external device
+246,rating catheter
+247,wound-vac drain
+248,orogastric tube
+249,straight sheath
+250,microscopy coil
+251,avalanche diode
+252,xray collimator
+253,endorectal coil
+254,surgical cement
+255,access catheter
+256,neurostimulator
+257,cutting balloon
+258,drainage device
+259,surgical staple
+260,cervical collar
+261,tissue expander
+262,angled wire tip
+263,calcaneal plate
+264,traction device
+265,sternotomy ties
+266,imaging device
+267,infusible wire
+268,dental filling
+269,Kurosaka screw
+270,breast implant
+271,cervical brace
+272,shunt catheter
+273,spinal implant
+274,cardiac filter
+275,cortical screw
+276,surgical drain
+277,Kirschner wire
+278,medical device
+279,power injector
+280,medical object
+281,k-space filter
+282,nuclear camera
+283,hybrid fixator
+284,chain sutures
+285,flexible coil
+286,surgical clip
+287,free silicone
+288,venous filter
+289,dental device
+290,loop recorder
+291,gradient coil
+292,tubular plate
+293,laser crystal
+294,Herbert screw
+295,needle sheath
+296,pacing device
+297,radial filter
+298,pump injector
+299,personal item
+300,nuclear diode
+301,trichobecaoar
+302,nonstiff wire
+303,surgical wire
+304,perm catheter
+305,pedicle screw
+306,aneurysm clip
+307,defibrillator
+308,curved sheath
+309,body piercing
+310,Dobbhoff tube
+311,feeding tube
+312,tracker coil
+313,biopsy brush
+314,bridge plate
+315,shot pellets
+316,foreign body
+317,anchor screw
+318,Schanz screw
+319,support rods
+320,gamma camera
+321,battery pack
+322,spider plate
+323,shunt tubing
+324,gastric tube
+325,caspar plate
+326,Steinman pin
+327,Fermi filter
+328,fusion plate
+329,ring fixator
+330,blade plate
+331,biopsy coil
+332,core needle
+333,orion plate
+334,head filter
+335,oral airway
+336,phytobezoar
+337,hearing aid
+338,CT detector
+339,body filter
+340,skin staple
+341,scar marker
+342,prostheses
+343,collimator
+344,decoration
+345,applicator
+346,stiff wire
+347,power pack
+348,stimulator
+349,needle tip
+350,bone dowel
+351,J wire tip
+352,transducer
+353,prosthesis
+354,laser tip
+355,CT device
+356,PIN diode
+357,shim coil
+358,MR device
+359,electrode
+360,halo vest
+361,Nanoknife
+362,pacemaker
+363,recorder
+364,birdshot
+365,fragment
+366,adhesive
+367,catheter
+368,PC plate
+369,fiducial
+370,wire tip
+371,Rush rod
+372,shrapnel
+373,buckshot
+374,injector
+375,expander
+376,jewelry
+377,monitor
+378,pigtail
+379,plastic
+380,forceps
+381,implant
+382,balloon
+383,denture
+384,battery
+385,T plate
+386,missile
+387,dilator
+388,bezoar
+389,marker
+390,bullet
+391,tattoo
+392,device
+393,staple
+394,object
+395,splint
+396,needle
+397,tubing
+398,filter
+399,cement
+400,suture
+401,sponge
+402,pellet
+403,screw
+404,sling
+405,glass
+406,plate
+407,valve
+408,probe
+409,drain
+410,stent
+411,clamp
+412,knife
+413,line
+414,cath
+415,ring
+416,ties
+417,lead
+418,tail
+419,wire
+420,coin
+421,pack
+422,nail
+423,tube
+424,shot
+425,clip
+426,aicd
+427,rod
+428,tip
+429,pin
+430,bar
+431,port
+432,pacer
+433,powerpack
+434,anchor
+435,anchor
+436,pacemaker position
+437,pacemaker position
+438,pacemaker position
+439,lead tips
+440,lead tip
+441,postsurgical hardware
+442,hardware
