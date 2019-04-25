@@ -1,0 +1,39 @@
+<html>
+<head>
+  <link rel="shortcut icon" href="#">
+  <link rel="stylesheet" href="/static/style.css">
+  <script type="text/javascript">
+  api_host_ip = '{{api_host_ip}}'
+  </script>
+  <script src="/static/main.js"></script>
+</head>
+<div class="jumbotron text-center header">
+  <div class="container">
+    
+    <h1>Patient Decision Supporting System - LMIC</h1>
+    <!--<p style="color:#888;">Please select one of the following options</p>-->
+    
+  </div>
+</div>
+<div class="container"> 
+  <!-- Example row of columns -->
+  <div class="row search-row">
+    <div class="text-center search-box">
+      <!--<h2>MRN : <input id='mrn_input' type='text' value="1503219" /></h2>-->
+        <h2>MRN : <input id='mrn_input' type='text' value="" /></h2>
+      <div class="submit-pid-btn">
+        <div class="" id="submit_pid"><a href="#" class="btn btn-sm animated-button sandy-one">Search!</a></div>
+      </div>
+      <div class="extract-feature-btn">
+        <div class="" id="extract-btn"><a href="#" class="btn btn-sm animated-button" disabled>Analyze</a></div>
+      </div>
+    </div>
+  </div>
+  <div id="result_box" class="result_box row visitHiddenTableClass">
+  </div>
+  <div id="loading_box">
+    <div id="process"></div>
+    <img id="loading" />
+  </div>
+</div>
+</html>
