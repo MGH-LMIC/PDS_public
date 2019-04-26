@@ -112,3 +112,6 @@ data/
 data/*
 *.zip
 *.dcm
+
+## OS miscs
+*.DS_Store
